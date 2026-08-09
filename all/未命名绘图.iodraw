@@ -83,7 +83,7 @@
           <mxGeometry x="251" y="302" width="150" height="28" as="geometry" />
         </mxCell>
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-28" value="有序DP求解" style="text;html=1;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="566" y="302" width="150" height="28" as="geometry" />
+          <mxGeometry x="587.5" y="302" width="150" height="28" as="geometry" />
         </mxCell>
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-29" value="结果分析" style="text;html=1;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="853.5" y="302" width="110" height="28" as="geometry" />
@@ -154,7 +154,7 @@
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#111111;strokeWidth=1.5;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="716" y="316" as="sourcePoint" />
-            <mxPoint x="817" y="316" as="targetPoint" />
+            <mxPoint x="840" y="316" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PBWlQKMfK1glm4Qn6FHt-29" target="PBWlQKMfK1glm4Qn6FHt-29">
