@@ -65,7 +65,7 @@
           <mxGeometry x="664.5" y="159" width="90" height="47" as="geometry" />
         </mxCell>
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-22" value="候选枚举" style="text;html=1;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=15;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="532" y="232" width="105" height="28" as="geometry" />
+          <mxGeometry x="532" y="250" width="105" height="28" as="geometry" />
         </mxCell>
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-23" value="DP求解" style="text;html=1;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=15;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="655.5" y="255" width="108" height="28" as="geometry" />
