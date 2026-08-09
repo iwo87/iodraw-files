@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2WPuU8TN5ahlBKGQqcv2-2" value="本文按照如图 2 所示的思路对问题一进行求解。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=18;fontFamily=SimSun;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="145" y="48" width="700" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="2WPuU8TN5ahlBKGQqcv2-3" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;dashed=1;dashPattern=8 6;strokeWidth=2;strokeColor=#333333;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="55" y="95" width="225" height="390" as="geometry" />
         </mxCell>
@@ -135,9 +132,6 @@
         </mxCell>
         <mxCell id="2WPuU8TN5ahlBKGQqcv2-45" value="" style="shape=mxgraph.arrows2.arrow;dy=0.55;dx=14;notch=0;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="800" y="507" width="32" height="13" as="geometry" />
-        </mxCell>
-        <mxCell id="2WPuU8TN5ahlBKGQqcv2-46" value="图 2　胎儿Y染色体浓度与孕周、BMI关系模型求解思路图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontStyle=1;fontFamily=SimSun;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="190" y="565" width="780" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
