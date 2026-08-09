@@ -49,22 +49,22 @@
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-16" value="&lt;b&gt;BMI连续覆盖、覆盖率、&lt;br&gt;最低概率与时点非递减&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=12;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="316" y="225" width="144" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="PBWlQKMfK1glm4Qn6FHt-17" value="枚举组数&#xa;K=3–6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="PBWlQKMfK1glm4Qn6FHt-17" value="&lt;b&gt;枚举组数&lt;br&gt;K=3–6&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="543" y="61" width="83" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="PBWlQKMfK1glm4Qn6FHt-18" value="预计算区间成本&#xa;与可行约束" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=13;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="PBWlQKMfK1glm4Qn6FHt-18" value="&lt;b&gt;预计算区间成本&lt;br&gt;与可行约束&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=13;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="543" y="150" width="83" height="95" as="geometry" />
         </mxCell>
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#D0D0D0;strokeWidth=1.5;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="646" y="42" width="127" height="207" as="geometry" />
         </mxCell>
-        <mxCell id="PBWlQKMfK1glm4Qn6FHt-20" value="最优BMI分界及&#xa;统一NIPT时点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="PBWlQKMfK1glm4Qn6FHt-20" value="&lt;b&gt;最优BMI分界及&lt;br&gt;统一NIPT时点&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="664.5" y="61" width="90" height="74" as="geometry" />
         </mxCell>
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-21" value="有序动态规划" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="664.5" y="174" width="90" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="PBWlQKMfK1glm4Qn6FHt-22" value="候选枚举" style="text;html=1;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=15;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="PBWlQKMfK1glm4Qn6FHt-22" value="&lt;b&gt;候选枚举&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=15;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="532" y="250" width="105" height="28" as="geometry" />
         </mxCell>
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-23" value="DP求解" style="text;html=1;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=15;align=center;verticalAlign=middle;" vertex="1" parent="1">
