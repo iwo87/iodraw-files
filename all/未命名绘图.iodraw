@@ -37,6 +37,9 @@
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-11" value="目标函数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="190" y="135" width="82" height="47" as="geometry" />
         </mxCell>
+        <mxCell id="PBWlQKMfK1glm4Qn6FHt-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PBWlQKMfK1glm4Qn6FHt-12" target="PBWlQKMfK1glm4Qn6FHt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#666666;fillColor=none;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="293" y="108" width="20" height="94" as="geometry" />
         </mxCell>
