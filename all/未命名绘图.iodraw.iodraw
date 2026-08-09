@@ -67,7 +67,7 @@
         <mxCell id="2WPuU8TN5ahlBKGQqcv2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="2WPuU8TN5ahlBKGQqcv2-19" target="2WPuU8TN5ahlBKGQqcv2-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2WPuU8TN5ahlBKGQqcv2-24" value="&lt;b&gt;建立M1、M2、M3&lt;br&gt;候选混合效应模型&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=none;fillColor=#FFF2CC;fontSize=15;fontFamily=SimSun;" vertex="1" parent="1">
+        <mxCell id="2WPuU8TN5ahlBKGQqcv2-24" value="&lt;b&gt;建立M1、M2、M3&lt;br&gt;候选LLM&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=none;fillColor=#FFF2CC;fontSize=15;fontFamily=SimSun;" vertex="1" parent="1">
           <mxGeometry x="605" y="140" width="165" height="62" as="geometry" />
         </mxCell>
         <mxCell id="2WPuU8TN5ahlBKGQqcv2-25" value="&lt;b&gt;ML估计与&lt;br&gt;AIC、BIC、LR比较&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=none;fillColor=#D9E2F3;fontSize=15;fontFamily=SimSun;" vertex="1" parent="1">
@@ -82,10 +82,10 @@
         <mxCell id="2WPuU8TN5ahlBKGQqcv2-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="2WPuU8TN5ahlBKGQqcv2-25" target="2WPuU8TN5ahlBKGQqcv2-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2WPuU8TN5ahlBKGQqcv2-29" value="联合Wald&lt;br&gt;显著性检验" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=none;fillColor=#FFF2CC;fontSize=15;fontFamily=SimSun;" vertex="1" parent="1">
+        <mxCell id="2WPuU8TN5ahlBKGQqcv2-29" value="&lt;b&gt;联合Wald&lt;br&gt;显著性检验&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=none;fillColor=#FFF2CC;fontSize=15;fontFamily=SimSun;" vertex="1" parent="1">
           <mxGeometry x="865" y="122" width="165" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="2WPuU8TN5ahlBKGQqcv2-30" value="ICC与边际、条件&lt;br&gt;R²拟合评价" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=none;fillColor=#FFF2CC;fontSize=15;fontFamily=SimSun;" vertex="1" parent="1">
+        <mxCell id="2WPuU8TN5ahlBKGQqcv2-30" value="&lt;b&gt;ICC与边际、条件&lt;br&gt;R²拟合评价&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=none;fillColor=#FFF2CC;fontSize=15;fontFamily=SimSun;" vertex="1" parent="1">
           <mxGeometry x="865" y="212" width="165" height="55" as="geometry" />
         </mxCell>
         <mxCell id="2WPuU8TN5ahlBKGQqcv2-31" value="残差诊断与&lt;br&gt;GAMM非线性检验" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=none;fillColor=#D9E2F3;fontSize=15;fontFamily=SimSun;" vertex="1" parent="1">
