@@ -16,10 +16,10 @@
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;strokeWidth=2;dashed=1;dashPattern=6 4;arcSize=12;" vertex="1" parent="1">
           <mxGeometry x="850" y="28" width="130" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="PBWlQKMfK1glm4Qn6FHt-6" value="Q1-M2模型接口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="PBWlQKMfK1glm4Qn6FHt-6" value="&lt;b&gt;Q1-M2模型接口&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="36" y="57" width="84" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="PBWlQKMfK1glm4Qn6FHt-7" value="年龄/IVF&#xa;等权边际化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="PBWlQKMfK1glm4Qn6FHt-7" value="&lt;b&gt;年龄/IVF&lt;br&gt;等权边际化&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="36" y="133" width="84" height="49" as="geometry" />
         </mxCell>
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-8" value="解析概率+PAVA&#xa;单调投影" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
