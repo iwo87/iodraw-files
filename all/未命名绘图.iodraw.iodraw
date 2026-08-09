@@ -115,7 +115,7 @@
         <mxCell id="2WPuU8TN5ahlBKGQqcv2-39" value="数据准备与质控" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontStyle=1;fontFamily=SimSun;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="55" y="495" width="225" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="2WPuU8TN5ahlBKGQqcv2-40" value="探索与特征构造" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontStyle=1;fontFamily=SimSun;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="2WPuU8TN5ahlBKGQqcv2-40" value="特征提取" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontStyle=1;fontFamily=SimSun;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="315" y="495" width="225" height="35" as="geometry" />
         </mxCell>
         <mxCell id="2WPuU8TN5ahlBKGQqcv2-41" value="模型建立与求解" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontStyle=1;fontFamily=SimSun;fontColor=#000000;" vertex="1" parent="1">
