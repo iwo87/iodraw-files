@@ -20,7 +20,7 @@
           <mxGeometry x="40" y="49" width="84" height="48" as="geometry" />
         </mxCell>
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-7" value="年龄/IVF&#xa;等权边际化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="40" y="121" width="84" height="49" as="geometry" />
+          <mxGeometry x="36" y="133" width="84" height="49" as="geometry" />
         </mxCell>
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-8" value="解析概率+PAVA&#xa;单调投影" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="40" y="203" width="84" height="57" as="geometry" />
