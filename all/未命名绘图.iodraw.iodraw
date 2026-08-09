@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2WPuU8TN5ahlBKGQqcv2-1" value="针对同一孕妇存在重复检测的特点，建立混合效应模型，并对显著性、拟合效果与稳健性进行检验。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontFamily=SimSun;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="75" y="5" width="1010" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="2WPuU8TN5ahlBKGQqcv2-2" value="本文按照如图 2 所示的思路对问题一进行求解。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=18;fontFamily=SimSun;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="145" y="48" width="700" height="30" as="geometry" />
         </mxCell>
