@@ -61,19 +61,19 @@
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-20" value="&lt;b&gt;最优BMI分界及&lt;br&gt;统一NIPT时点&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="664.5" y="61" width="90" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="PBWlQKMfK1glm4Qn6FHt-21" value="有序动态规划" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="PBWlQKMfK1glm4Qn6FHt-21" value="&lt;b&gt;有序动态规划&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="664.5" y="174" width="90" height="47" as="geometry" />
         </mxCell>
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-22" value="&lt;b&gt;候选枚举&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=15;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="532" y="250" width="105" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="PBWlQKMfK1glm4Qn6FHt-23" value="DP求解" style="text;html=1;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=15;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="PBWlQKMfK1glm4Qn6FHt-23" value="&lt;b&gt;DP求解&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=15;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="655.5" y="255" width="108" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="PBWlQKMfK1glm4Qn6FHt-24" value="4组BMI区间与&#xa;统一推荐时点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="PBWlQKMfK1glm4Qn6FHt-24" value="&lt;b&gt;4组BMI区间与&lt;br&gt;统一推荐时点&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="866.5" y="57" width="97" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="PBWlQKMfK1glm4Qn6FHt-25" value="技术误差κ与结构权重ω&#xa;敏感性分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=13;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="PBWlQKMfK1glm4Qn6FHt-25" value="&lt;b&gt;技术误差κ与结构权重ω&lt;br&gt;敏感性分析&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=13;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="866.5" y="182" width="97" height="82" as="geometry" />
         </mxCell>
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-26" value="概率准备" style="text;html=1;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
