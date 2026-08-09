@@ -28,10 +28,10 @@
         <mxCell id="2WPuU8TN5ahlBKGQqcv2-10" value="&lt;b&gt;数据预处理与质量控制&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;fontFamily=SimSun;fontColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="85" y="260" width="165" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="2WPuU8TN5ahlBKGQqcv2-11" value="测序质量标记&lt;br&gt;GC、读段、比对、重复、过滤" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=none;fillColor=#FCE4D6;fontSize=14;fontFamily=SimSun;" vertex="1" parent="1">
+        <mxCell id="2WPuU8TN5ahlBKGQqcv2-11" value="&lt;b&gt;测序质量标记&lt;br&gt;GC、读段、比对、重复、过滤&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=none;fillColor=#FCE4D6;fontSize=14;fontFamily=SimSun;" vertex="1" parent="1">
           <mxGeometry x="85" y="310" width="165" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="2WPuU8TN5ahlBKGQqcv2-12" value="形成主分析集与&lt;br&gt;敏感性分析子集" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=none;fillColor=#E2F0D9;fontSize=15;fontFamily=SimSun;" vertex="1" parent="1">
+        <mxCell id="2WPuU8TN5ahlBKGQqcv2-12" value="&lt;b&gt;形成主分析集与&lt;br&gt;敏感性分析子集&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=none;fillColor=#E2F0D9;fontSize=15;fontFamily=SimSun;" vertex="1" parent="1">
           <mxGeometry x="85" y="405" width="165" height="55" as="geometry" />
         </mxCell>
         <mxCell id="2WPuU8TN5ahlBKGQqcv2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="2WPuU8TN5ahlBKGQqcv2-8" target="2WPuU8TN5ahlBKGQqcv2-9">
@@ -46,10 +46,10 @@
         <mxCell id="2WPuU8TN5ahlBKGQqcv2-16" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;strokeColor=#D0D0D0;fillColor=#F2F2F2;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="112" width="195" height="245" as="geometry" />
         </mxCell>
-        <mxCell id="2WPuU8TN5ahlBKGQqcv2-17" value="描述性统计与&lt;br&gt;个体纵向轨迹" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=none;fillColor=#FFF2CC;fontSize=15;fontFamily=SimSun;" vertex="1" parent="1">
+        <mxCell id="2WPuU8TN5ahlBKGQqcv2-17" value="&lt;b&gt;描述性统计与&lt;br&gt;个体纵向轨迹&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=none;fillColor=#FFF2CC;fontSize=15;fontFamily=SimSun;" vertex="1" parent="1">
           <mxGeometry x="345" y="128" width="165" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="2WPuU8TN5ahlBKGQqcv2-18" value="Pearson、Spearman&lt;br&gt;相关性分析" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=none;fillColor=#D9E2F3;fontSize=15;fontFamily=SimSun;" vertex="1" parent="1">
+        <mxCell id="2WPuU8TN5ahlBKGQqcv2-18" value="&lt;b&gt;Pearson、Spearman&lt;br&gt;相关性分析&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=none;fillColor=#D9E2F3;fontSize=15;fontFamily=SimSun;" vertex="1" parent="1">
           <mxGeometry x="345" y="210" width="165" height="55" as="geometry" />
         </mxCell>
         <mxCell id="2WPuU8TN5ahlBKGQqcv2-19" value="VIF检验与&lt;br&gt;模型特征构造" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=none;fillColor=#FCE4D6;fontSize=15;fontFamily=SimSun;" vertex="1" parent="1">
