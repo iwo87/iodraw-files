@@ -37,16 +37,16 @@
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#666666;fillColor=none;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="293" y="108" width="20" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="PBWlQKMfK1glm4Qn6FHt-13" value="失败风险+&#xa;延迟风险" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="PBWlQKMfK1glm4Qn6FHt-13" value="&lt;b&gt;失败风险+&lt;br&gt;延迟风险&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="316" y="108" width="144" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="PBWlQKMfK1glm4Qn6FHt-14" value="区间宽度/人数/&#xa;时点异质性结构项" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=13;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="PBWlQKMfK1glm4Qn6FHt-14" value="&lt;b&gt;区间宽度/人数/&lt;br&gt;时点异质性结构项&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=13;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="316" y="158" width="144" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="PBWlQKMfK1glm4Qn6FHt-15" value="约束条件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="PBWlQKMfK1glm4Qn6FHt-15" value="&lt;b&gt;约束条件&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="199" y="231" width="82" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="PBWlQKMfK1glm4Qn6FHt-16" value="BMI连续覆盖、覆盖率、&#xa;最低概率与时点非递减" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=12;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="PBWlQKMfK1glm4Qn6FHt-16" value="&lt;b&gt;BMI连续覆盖、覆盖率、&lt;br&gt;最低概率与时点非递减&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=12;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="316" y="225" width="144" height="58" as="geometry" />
         </mxCell>
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-17" value="枚举组数&#xa;K=3–6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
