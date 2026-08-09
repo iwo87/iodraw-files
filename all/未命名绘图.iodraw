@@ -71,10 +71,10 @@
           <mxGeometry x="638" y="232" width="108" height="28" as="geometry" />
         </mxCell>
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-24" value="4组BMI区间与&#xa;统一推荐时点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="824" y="52" width="97" height="95" as="geometry" />
+          <mxGeometry x="833.5" y="56" width="97" height="95" as="geometry" />
         </mxCell>
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-25" value="技术误差κ与结构权重ω&#xa;敏感性分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=13;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="824" y="185" width="97" height="82" as="geometry" />
+          <mxGeometry x="833.5" y="182" width="97" height="82" as="geometry" />
         </mxCell>
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-26" value="概率准备" style="text;html=1;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="47" y="302" width="108" height="28" as="geometry" />
