@@ -11,7 +11,7 @@
           <mxGeometry x="184" y="28" width="290" height="270" as="geometry" />
         </mxCell>
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;strokeWidth=2;dashed=1;dashPattern=6 4;arcSize=12;" vertex="1" parent="1">
-          <mxGeometry x="498" y="28" width="285" height="270" as="geometry" />
+          <mxGeometry x="510" y="28" width="285" height="270" as="geometry" />
         </mxCell>
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;strokeWidth=2;dashed=1;dashPattern=6 4;arcSize=12;" vertex="1" parent="1">
           <mxGeometry x="850" y="28" width="130" height="270" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="866.5" y="57" width="97" height="95" as="geometry" />
         </mxCell>
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-25" value="技术误差κ与结构权重ω&#xa;敏感性分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontFamily=Microsoft YaHei;fontSize=13;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="833.5" y="182" width="97" height="82" as="geometry" />
+          <mxGeometry x="866.5" y="182" width="97" height="82" as="geometry" />
         </mxCell>
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-26" value="概率准备" style="text;html=1;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="28" y="302" width="108" height="28" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="566" y="302" width="150" height="28" as="geometry" />
         </mxCell>
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-29" value="结果分析" style="text;html=1;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="827" y="302" width="110" height="28" as="geometry" />
+          <mxGeometry x="853.5" y="302" width="110" height="28" as="geometry" />
         </mxCell>
         <mxCell id="PBWlQKMfK1glm4Qn6FHt-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#222222;strokeWidth=1.5;" edge="1" parent="1" source="PBWlQKMfK1glm4Qn6FHt-6" target="PBWlQKMfK1glm4Qn6FHt-7">
           <mxGeometry relative="1" as="geometry" />
