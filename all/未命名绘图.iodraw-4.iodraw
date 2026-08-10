@@ -59,13 +59,13 @@
         <mxCell id="VHxVfyajPiCB2jMs3OKp-15" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Bootstrap稳定性分析&lt;br&gt;与敏感性检验&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E2F0D9;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
           <mxGeometry x="570" y="177" width="170" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="VHxVfyajPiCB2jMs3OKp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;endSize=12;strokeColor=#54B948;strokeWidth=6;" edge="1" parent="1" source="VHxVfyajPiCB2jMs3OKp-12" target="VHxVfyajPiCB2jMs3OKp-13">
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;endSize=12;strokeColor=#54B948;strokeWidth=2;" edge="1" parent="1" source="VHxVfyajPiCB2jMs3OKp-12" target="VHxVfyajPiCB2jMs3OKp-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VHxVfyajPiCB2jMs3OKp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;endSize=12;strokeColor=#54B948;strokeWidth=2;" edge="1" parent="1" source="VHxVfyajPiCB2jMs3OKp-13" target="VHxVfyajPiCB2jMs3OKp-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VHxVfyajPiCB2jMs3OKp-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;endSize=12;strokeColor=#54B948;strokeWidth=6;" edge="1" parent="1" source="VHxVfyajPiCB2jMs3OKp-14" target="VHxVfyajPiCB2jMs3OKp-15">
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;endSize=12;strokeColor=#54B948;strokeWidth=2;" edge="1" parent="1" source="VHxVfyajPiCB2jMs3OKp-14" target="VHxVfyajPiCB2jMs3OKp-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VHxVfyajPiCB2jMs3OKp-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#7F8BD9;strokeWidth=3;dashed=1;dashPattern=12 8;" vertex="1" parent="1">
