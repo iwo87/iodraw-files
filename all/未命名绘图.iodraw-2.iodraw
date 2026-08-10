@@ -40,9 +40,6 @@
             <mxPoint x="155" y="289" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kNMagJwDBxll8O_UKaSQ-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kNMagJwDBxll8O_UKaSQ-11" target="kNMagJwDBxll8O_UKaSQ-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="kNMagJwDBxll8O_UKaSQ-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;dashed=1;dashPattern=8 4;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="283" y="35" width="215" height="332" as="geometry" />
         </mxCell>
@@ -134,6 +131,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="476" y="385" as="sourcePoint" />
             <mxPoint x="575" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-37" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="290" as="sourcePoint" />
+            <mxPoint x="520" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
