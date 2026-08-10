@@ -44,10 +44,10 @@
         <mxCell id="VHxVfyajPiCB2jMs3OKp-11" value="问题二" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=28;fontStyle=1;fontColor=#70AD47;fontFamily=SimSun;" vertex="1" parent="1">
           <mxGeometry x="680" y="40" width="120" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="VHxVfyajPiCB2jMs3OKp-12" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;构建怀孕天数-BMI-&lt;br&gt;达标概率曲面&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E2F0D9;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;构建怀孕天数-BMI-&lt;br&gt;达标概率曲面&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E2F0D9;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
           <mxGeometry x="520" y="85" width="215" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="VHxVfyajPiCB2jMs3OKp-13" value="有序动态规划&#xa;优化BMI分组" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E2F0D9;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;有序动态规划&lt;br&gt;优化BMI分组&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E2F0D9;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
           <mxGeometry x="772" y="85" width="188" height="62" as="geometry" />
         </mxCell>
         <mxCell id="VHxVfyajPiCB2jMs3OKp-14" value="得到最佳检测时点&#xa;及风险函数" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E2F0D9;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
