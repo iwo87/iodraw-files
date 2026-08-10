@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VHxVfyajPiCB2jMs3OKp-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#2E75B6;strokeWidth=3;dashed=1;dashPattern=12 8;perimeterSpacing=0;" vertex="1" parent="1">
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#2E75B6;strokeWidth=2;dashed=1;dashPattern=12 8;perimeterSpacing=0;" vertex="1" parent="1">
           <mxGeometry x="35" y="28" width="460" height="240" as="geometry" />
         </mxCell>
         <mxCell id="VHxVfyajPiCB2jMs3OKp-2" value="问题一" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=28;fontStyle=1;fontColor=#2E75B6;fontFamily=SimSun;" vertex="1" parent="1">
@@ -38,7 +38,7 @@
             <mxPoint x="270" y="194" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VHxVfyajPiCB2jMs3OKp-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#548235;strokeWidth=3;dashed=1;dashPattern=12 8;" vertex="1" parent="1">
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#548235;strokeWidth=2;dashed=1;dashPattern=12 8;" vertex="1" parent="1">
           <mxGeometry x="510" y="28" width="460" height="240" as="geometry" />
         </mxCell>
         <mxCell id="VHxVfyajPiCB2jMs3OKp-11" value="问题二" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=28;fontStyle=1;fontColor=#70AD47;fontFamily=SimSun;" vertex="1" parent="1">
@@ -94,7 +94,7 @@
         <mxCell id="VHxVfyajPiCB2jMs3OKp-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;endSize=12;strokeColor=#B4A7F5;strokeWidth=2;" edge="1" parent="1" source="VHxVfyajPiCB2jMs3OKp-23" target="VHxVfyajPiCB2jMs3OKp-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VHxVfyajPiCB2jMs3OKp-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#D9B3B3;strokeWidth=3;dashed=1;dashPattern=12 8;" vertex="1" parent="1">
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#D9B3B3;strokeWidth=2;dashed=1;dashPattern=12 8;" vertex="1" parent="1">
           <mxGeometry x="510" y="282" width="460" height="240" as="geometry" />
         </mxCell>
         <mxCell id="VHxVfyajPiCB2jMs3OKp-29" value="问题四" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=28;fontStyle=1;fontColor=#C00000;fontFamily=SimSun;" vertex="1" parent="1">
