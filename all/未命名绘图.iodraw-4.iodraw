@@ -79,10 +79,10 @@
         <mxCell id="VHxVfyajPiCB2jMs3OKp-20" value="问题三" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=28;fontStyle=1;fontColor=#6F63C5;fontFamily=SimSun;" vertex="1" parent="1">
           <mxGeometry x="205" y="294" width="120" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="VHxVfyajPiCB2jMs3OKp-21" value="多因素协变量构造&#xa;年龄/体重/孕产史" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E4DFEC;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-21" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;多因素协变量构造&lt;br&gt;年龄/体重/孕产史&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E4DFEC;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
           <mxGeometry x="50" y="339" width="205" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="VHxVfyajPiCB2jMs3OKp-22" value="多因素混合效应模型&#xa;及概率预测" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E4DFEC;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;多因素混合效应模型&lt;br&gt;及概率预测&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E4DFEC;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
           <mxGeometry x="290" y="339" width="185" height="62" as="geometry" />
         </mxCell>
         <mxCell id="VHxVfyajPiCB2jMs3OKp-23" value="年龄-BMI策略比较&#xa;动态规划优化" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E4DFEC;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
