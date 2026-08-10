@@ -1,0 +1,142 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="MHDUpIuLwrNH6MCIksaK">
+    <mxGraphModel dx="1221" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="700" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;dashed=1;dashPattern=8 4;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="57" y="35" width="196" height="332" as="geometry" />
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-2" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=none;fontColor=#000000;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="72" y="52" width="166" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#D0D0D0;strokeWidth=1.5;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="67" y="112" width="176" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-4" value="女胎样本筛选" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontColor=#000000;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="72" y="116" width="166" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-5" value="三标签构造" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontColor=#000000;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="72" y="156" width="166" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-6" value="缺失填补与缩尾" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontColor=#000000;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="72" y="196" width="166" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-7" value="特征派生" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontColor=#000000;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="72" y="236" width="166" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-8" value="稳健标准化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontColor=#000000;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="72" y="290" width="166" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="98" as="sourcePoint" />
+            <mxPoint x="155" y="113" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="276" as="sourcePoint" />
+            <mxPoint x="155" y="289" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;dashed=1;dashPattern=8 4;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="283" y="35" width="215" height="332" as="geometry" />
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-12" value="质量校正与建模" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=none;fontColor=#000000;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="307" y="52" width="168" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-13" value="Huber稳健回归" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontColor=#000000;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="307" y="128" width="168" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-14" value="质量校正Z值" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontColor=#000000;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="307" y="174" width="168" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-15" value="多因素正则Logistic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontColor=#000000;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="307" y="236" width="168" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-16" value="患者级嵌套交叉验证" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontColor=#000000;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="307" y="290" width="168" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-17" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="391" y="98" as="sourcePoint" />
+            <mxPoint x="391" y="127" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-18" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="391" y="212" as="sourcePoint" />
+            <mxPoint x="391" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;dashed=1;dashPattern=8 4;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="529" y="35" width="215" height="332" as="geometry" />
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-20" value="模型比较与三级判定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=none;fontColor=#000000;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="552" y="52" width="169" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-21" value="原始Z模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontColor=#000000;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="552" y="128" width="169" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-22" value="校正Z模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontColor=#000000;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="552" y="172" width="169" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-23" value="多因素模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontColor=#000000;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="552" y="216" width="169" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-24" value="双阈值三级判定&lt;br&gt;可靠性门·证据聚合" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontColor=#000000;fontSize=15;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="552" y="278" width="169" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-25" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="637" y="98" as="sourcePoint" />
+            <mxPoint x="637" y="127" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-26" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="637" y="252" as="sourcePoint" />
+            <mxPoint x="637" y="277" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-27" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=14;strokeColor=#2F5597;strokeWidth=9;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="253" y="201" as="sourcePoint" />
+            <mxPoint x="282" y="201" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-28" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=14;strokeColor=#2F5597;strokeWidth=9;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="499" y="201" as="sourcePoint" />
+            <mxPoint x="528" y="201" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-29" value="数据处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=20;fontFamily=Microsoft YaHei;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="91" y="370" width="128" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-30" value="模型建立与求解" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=20;fontFamily=Microsoft YaHei;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="310" y="370" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-31" value="结果分析" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=20;fontFamily=Microsoft YaHei;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="581" y="370" width="112" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-32" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=9;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="221" y="385" as="sourcePoint" />
+            <mxPoint x="303" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-33" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=9;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="476" y="385" as="sourcePoint" />
+            <mxPoint x="575" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-34" value="女胎染色体非整倍体判定思路图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=22;fontStyle=1;fontFamily=SimSun;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="420" width="600" height="38" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
