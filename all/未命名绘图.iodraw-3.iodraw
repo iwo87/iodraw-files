@@ -106,7 +106,7 @@
             <mxPoint x="645" y="291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xExZmDfHvkIpvz1mtqJJ-29" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=14;strokeColor=#2F5597;strokeWidth=9;" edge="1" parent="1">
+        <mxCell id="xExZmDfHvkIpvz1mtqJJ-29" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=14;strokeColor=#2F5597;strokeWidth=7;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="255" y="200" as="sourcePoint" />
             <mxPoint x="284" y="200" as="targetPoint" />
@@ -138,9 +138,6 @@
             <mxPoint x="476" y="384" as="sourcePoint" />
             <mxPoint x="584" y="384" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="xExZmDfHvkIpvz1mtqJJ-36" value="图 13　基于多因素风险校正与有序动态规划的最佳 NIPT 时点优化流程图" style="text;html=1;strokeColor=none;fillColor=none;fontSize=22;fontStyle=1;fontFamily=SimSun;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="75" y="420" width="670" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
