@@ -65,7 +65,7 @@
           <mxGeometry x="585" y="100" width="105" height="62" as="geometry" />
         </mxCell>
         <mxCell id="3Kg-gXwsMaNTJz_dGrYp-23" value="条件达标概率&lt;br&gt;+ PAVA校准&lt;br&gt;+ Bootstrap不确定性" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#FFF2CC;strokeColor=none;fontFamily=SimSun;fontSize=13;fontColor=#222222;" vertex="1" parent="1">
-          <mxGeometry x="580" y="225" width="115" height="100" as="geometry" />
+          <mxGeometry x="580" y="228" width="115" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3Kg-gXwsMaNTJz_dGrYp-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#222222;strokeWidth=1.5;" edge="1" parent="1" source="3Kg-gXwsMaNTJz_dGrYp-22" target="3Kg-gXwsMaNTJz_dGrYp-23">
           <mxGeometry relative="1" as="geometry" />
