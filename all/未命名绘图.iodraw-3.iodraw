@@ -106,7 +106,7 @@
             <mxPoint x="645" y="293" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-29" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=14;strokeColor=#2F5597;strokeWidth=9;" edge="1" parent="1">
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-29" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=14;strokeColor=#2F5597;strokeWidth=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="255" y="200" as="sourcePoint" />
             <mxPoint x="284" y="200" as="targetPoint" />
@@ -124,7 +124,7 @@
         <mxCell id="ZwcUzBVWF2wpeZNBHIeL-32" value="&lt;b&gt;模型建立与求解&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="315" y="370" width="160" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-33" value="结果分析" style="text;html=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-33" value="&lt;b&gt;结果分析&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="590" y="370" width="110" height="28" as="geometry" />
         </mxCell>
         <mxCell id="ZwcUzBVWF2wpeZNBHIeL-34" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
