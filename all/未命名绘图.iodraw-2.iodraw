@@ -46,16 +46,16 @@
         <mxCell id="kNMagJwDBxll8O_UKaSQ-12" value="&lt;b&gt;质量校正与建模&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=none;fontColor=#000000;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="307" y="52" width="168" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="kNMagJwDBxll8O_UKaSQ-13" value="Huber稳健回归" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontColor=#000000;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-13" value="&lt;b&gt;Huber稳健回归&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontColor=#000000;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="307" y="128" width="168" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="kNMagJwDBxll8O_UKaSQ-14" value="质量校正Z值" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontColor=#000000;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-14" value="&lt;b&gt;质量校正Z值&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontColor=#000000;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="307" y="174" width="168" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="kNMagJwDBxll8O_UKaSQ-15" value="多因素正则Logistic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontColor=#000000;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-15" value="&lt;b&gt;多因素正则Logistic&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontColor=#000000;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="307" y="236" width="168" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="kNMagJwDBxll8O_UKaSQ-16" value="患者级嵌套交叉验证" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontColor=#000000;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-16" value="&lt;b&gt;患者级嵌套交叉验证&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontColor=#000000;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="307" y="290" width="168" height="46" as="geometry" />
         </mxCell>
         <mxCell id="kNMagJwDBxll8O_UKaSQ-17" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
