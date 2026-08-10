@@ -33,7 +33,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VHxVfyajPiCB2jMs3OKp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;endSize=12;strokeColor=#0070C0;strokeWidth=2;" edge="1" parent="1" target="VHxVfyajPiCB2jMs3OKp-6">
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;endSize=12;strokeColor=#0070C0;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VHxVfyajPiCB2jMs3OKp-5" target="VHxVfyajPiCB2jMs3OKp-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="194" as="sourcePoint" />
           </mxGeometry>
