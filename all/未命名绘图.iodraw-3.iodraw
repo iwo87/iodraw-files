@@ -139,9 +139,6 @@
             <mxPoint x="584" y="384" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-36" value="图 8　基于达标概率曲面与有序动态规划的 BMI 分组及最佳 NIPT 时点流程图" style="text;html=1;strokeColor=none;fillColor=none;fontSize=22;fontStyle=1;fontFamily=SimSun;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="70" y="420" width="680" height="34" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
