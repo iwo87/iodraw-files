@@ -1,0 +1,121 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="总流程图" id="8HtymHOU6b4LfFHsknIY">
+    <mxGraphModel dx="1221" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#2E75B6;strokeWidth=3;dashed=1;dashPattern=12 8;" vertex="1" parent="1">
+          <mxGeometry x="35" y="28" width="460" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-2" value="问题一" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=28;fontStyle=1;fontColor=#2E75B6;fontFamily=SimSun;" vertex="1" parent="1">
+          <mxGeometry x="205" y="40" width="120" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-3" value="纵向数据预处理" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#DCE6F1;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="58" y="85" width="205" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-4" value="建立随机截距-&#xa;随机斜率混合效应模型" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#DCE6F1;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="290" y="85" width="185" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-5" value="固定效应筛选&#xa;及参数估计" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#DCE6F1;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="290" y="170" width="185" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-6" value="浓度变化规律分析&#xa;与显著性检验" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#DCE6F1;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="115" y="170" width="150" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;endSize=12;strokeColor=#0070C0;strokeWidth=6;" edge="1" parent="1" source="VHxVfyajPiCB2jMs3OKp-3" target="VHxVfyajPiCB2jMs3OKp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;endSize=12;strokeColor=#0070C0;strokeWidth=6;" edge="1" parent="1" source="VHxVfyajPiCB2jMs3OKp-4" target="VHxVfyajPiCB2jMs3OKp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;endSize=12;strokeColor=#0070C0;strokeWidth=6;" edge="1" parent="1" source="VHxVfyajPiCB2jMs3OKp-5" target="VHxVfyajPiCB2jMs3OKp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#548235;strokeWidth=3;dashed=1;dashPattern=12 8;" vertex="1" parent="1">
+          <mxGeometry x="510" y="28" width="460" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-11" value="问题二" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=28;fontStyle=1;fontColor=#70AD47;fontFamily=SimSun;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="120" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-12" value="构建孕天-BMI-&#xa;达标概率曲面" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E2F0D9;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="520" y="85" width="215" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-13" value="有序动态规划&#xa;优化BMI分组" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E2F0D9;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="772" y="85" width="188" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-14" value="得到最佳检测时点&#xa;及风险函数" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E2F0D9;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="782" y="170" width="178" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-15" value="Bootstrap稳定性分析&#xa;与敏感性检验" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E2F0D9;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="590" y="170" width="160" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;endSize=12;strokeColor=#54B948;strokeWidth=6;" edge="1" parent="1" source="VHxVfyajPiCB2jMs3OKp-12" target="VHxVfyajPiCB2jMs3OKp-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;endSize=12;strokeColor=#54B948;strokeWidth=6;" edge="1" parent="1" source="VHxVfyajPiCB2jMs3OKp-13" target="VHxVfyajPiCB2jMs3OKp-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;endSize=12;strokeColor=#54B948;strokeWidth=6;" edge="1" parent="1" source="VHxVfyajPiCB2jMs3OKp-14" target="VHxVfyajPiCB2jMs3OKp-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#7F8BD9;strokeWidth=3;dashed=1;dashPattern=12 8;" vertex="1" parent="1">
+          <mxGeometry x="35" y="282" width="460" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-20" value="问题三" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=28;fontStyle=1;fontColor=#6F63C5;fontFamily=SimSun;" vertex="1" parent="1">
+          <mxGeometry x="205" y="294" width="120" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-21" value="多因素协变量构造&#xa;年龄/体重/孕产史" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E4DFEC;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="50" y="339" width="205" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-22" value="多因素混合效应模型&#xa;及概率预测" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E4DFEC;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="290" y="339" width="185" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-23" value="年龄-BMI策略比较&#xa;动态规划优化" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E4DFEC;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="290" y="424" width="185" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-24" value="确定最终BMI分组&#xa;与推荐检测时点" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E4DFEC;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="112" y="424" width="160" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;endSize=12;strokeColor=#B4A7F5;strokeWidth=6;" edge="1" parent="1" source="VHxVfyajPiCB2jMs3OKp-21" target="VHxVfyajPiCB2jMs3OKp-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;endSize=12;strokeColor=#B4A7F5;strokeWidth=6;" edge="1" parent="1" source="VHxVfyajPiCB2jMs3OKp-22" target="VHxVfyajPiCB2jMs3OKp-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;endSize=12;strokeColor=#B4A7F5;strokeWidth=6;" edge="1" parent="1" source="VHxVfyajPiCB2jMs3OKp-23" target="VHxVfyajPiCB2jMs3OKp-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#D9B3B3;strokeWidth=3;dashed=1;dashPattern=12 8;" vertex="1" parent="1">
+          <mxGeometry x="510" y="282" width="460" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-29" value="问题四" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=28;fontStyle=1;fontColor=#C00000;fontFamily=SimSun;" vertex="1" parent="1">
+          <mxGeometry x="680" y="294" width="120" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-30" value="稳健Z值校正&#xa;测序质量调整" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#F4CCCC;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="570" y="339" width="150" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-31" value="岭Logistic异常判定&#xa;概率预测模型" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#F4CCCC;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="742" y="339" width="170" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-32" value="成本敏感双阈值&#xa;三级风险分类" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#F4CCCC;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="742" y="420" width="195" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-33" value="孕妇级证据聚合&#xa;输出筛查结果" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#F4CCCC;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="568" y="420" width="150" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;endSize=12;strokeColor=#D40000;strokeWidth=6;" edge="1" parent="1" source="VHxVfyajPiCB2jMs3OKp-30" target="VHxVfyajPiCB2jMs3OKp-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;endSize=12;strokeColor=#D40000;strokeWidth=6;" edge="1" parent="1" source="VHxVfyajPiCB2jMs3OKp-31" target="VHxVfyajPiCB2jMs3OKp-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;endSize=12;strokeColor=#D40000;strokeWidth=6;" edge="1" parent="1" source="VHxVfyajPiCB2jMs3OKp-32" target="VHxVfyajPiCB2jMs3OKp-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-37" value="图 2　总流程图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=24;fontStyle=1;fontColor=#000000;fontFamily=SimSun;" vertex="1" parent="1">
+          <mxGeometry x="360" y="540" width="285" height="36" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
