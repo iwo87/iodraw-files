@@ -46,16 +46,16 @@
         <mxCell id="xExZmDfHvkIpvz1mtqJJ-12" value="多因素模型构建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="308" y="52" width="174" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="xExZmDfHvkIpvz1mtqJJ-13" value="多因素混合效应模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=15;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="xExZmDfHvkIpvz1mtqJJ-13" value="&lt;b&gt;多因素混合效应模型&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=15;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="308" y="116" width="174" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xExZmDfHvkIpvz1mtqJJ-14" value="交叉验证模型选择" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=15;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="xExZmDfHvkIpvz1mtqJJ-14" value="&lt;b&gt;交叉验证模型选择&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=15;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="308" y="160" width="174" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xExZmDfHvkIpvz1mtqJJ-15" value="Bootstrap不确定性传播" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=14;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="xExZmDfHvkIpvz1mtqJJ-15" value="&lt;b&gt;Bootstrap不确定性传播&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=14;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="308" y="204" width="174" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xExZmDfHvkIpvz1mtqJJ-16" value="个体达标概率矩阵" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontSize=15;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="xExZmDfHvkIpvz1mtqJJ-16" value="&lt;b&gt;个体达标概率矩阵&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontSize=15;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="308" y="258" width="174" height="44" as="geometry" />
         </mxCell>
         <mxCell id="xExZmDfHvkIpvz1mtqJJ-17" value="PAVA概率单调化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontSize=15;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
@@ -88,7 +88,7 @@
         <mxCell id="xExZmDfHvkIpvz1mtqJJ-24" value="&lt;b&gt;有序动态规划&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="558" y="198" width="174" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="xExZmDfHvkIpvz1mtqJJ-25" value="最终BMI分组与推荐时点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=14;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="xExZmDfHvkIpvz1mtqJJ-25" value="&lt;b&gt;最终BMI分组与推荐时点&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=14;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="558" y="240" width="174" height="34" as="geometry" />
         </mxCell>
         <mxCell id="xExZmDfHvkIpvz1mtqJJ-26" value="&lt;b&gt;Bootstrap检验与敏感性分析&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontSize=14;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
