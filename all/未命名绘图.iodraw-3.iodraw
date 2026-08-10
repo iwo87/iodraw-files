@@ -1,9 +1,147 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
-  <diagram name="第 1 页" id="I_AosRe-6wVqbz-QwC-4">
+  <diagram name="Q2流程图" id="I_AosRe-6wVqbz-QwC-4">
     <mxGraphModel dx="1221" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;dashed=1;dashPattern=8 4;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="55" y="35" width="200" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-2" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="72" y="52" width="166" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#D0D0D0;strokeWidth=1.5;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="67" y="110" width="176" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-4" value="纵向检测数据整理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="72" y="116" width="166" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-5" value="BMI基线提取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="72" y="156" width="166" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-6" value="技术误差分解" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="72" y="196" width="166" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-7" value="患者级验证划分" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="72" y="236" width="166" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-8" value="保留全部男胎记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="72" y="288" width="166" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-9" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="97" as="sourcePoint" />
+            <mxPoint x="155" y="109" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-10" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="274" as="sourcePoint" />
+            <mxPoint x="155" y="287" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;dashed=1;dashPattern=8 4;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="285" y="35" width="220" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-12" value="达标概率建模" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="308" y="52" width="174" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-13" value="继承M2混合效应模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=15;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="308" y="116" width="174" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-14" value="个体达标概率轨迹" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="308" y="160" width="174" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-15" value="PAVA单调投影" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="308" y="204" width="174" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-16" value="核平滑概率曲面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="308" y="258" width="174" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-17" value="风险函数构造" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="308" y="310" width="174" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-18" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="96" as="sourcePoint" />
+            <mxPoint x="395" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-19" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="240" as="sourcePoint" />
+            <mxPoint x="395" y="257" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;dashed=1;dashPattern=8 4;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="535" y="35" width="220" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-21" value="分组优化与结果分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="558" y="52" width="174" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-22" value="BMI区间代价计算" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="558" y="116" width="174" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-23" value="有序动态规划" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="558" y="158" width="174" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-24" value="BMI分组与推荐时点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=15;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="558" y="200" width="174" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-25" value="Bootstrap稳定性" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="558" y="242" width="174" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-26" value="敏感性分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="558" y="294" width="174" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-27" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="645" y="96" as="sourcePoint" />
+            <mxPoint x="645" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-28" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="645" y="276" as="sourcePoint" />
+            <mxPoint x="645" y="293" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-29" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=14;strokeColor=#2F5597;strokeWidth=9;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255" y="200" as="sourcePoint" />
+            <mxPoint x="284" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-30" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=14;strokeColor=#2F5597;strokeWidth=9;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="505" y="200" as="sourcePoint" />
+            <mxPoint x="534" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-31" value="数据处理" style="text;html=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="93" y="370" width="124" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-32" value="模型建立与求解" style="text;html=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="315" y="370" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-33" value="结果分析" style="text;html=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="590" y="370" width="110" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-34" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="218" y="384" as="sourcePoint" />
+            <mxPoint x="304" y="384" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-35" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="476" y="384" as="sourcePoint" />
+            <mxPoint x="584" y="384" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-36" value="图 8　基于达标概率曲面与有序动态规划的 BMI 分组及最佳 NIPT 时点流程图" style="text;html=1;strokeColor=none;fillColor=none;fontSize=22;fontStyle=1;fontFamily=SimSun;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="70" y="420" width="680" height="34" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
