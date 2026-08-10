@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kNMagJwDBxll8O_UKaSQ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;dashed=1;dashPattern=8 4;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;strokeWidth=2;dashed=1;dashPattern=8 4;arcSize=10;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="57" y="35" width="196" height="332" as="geometry" />
         </mxCell>
         <mxCell id="kNMagJwDBxll8O_UKaSQ-2" value="&lt;b&gt;数据预处理&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=none;fontColor=#000000;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
@@ -100,13 +100,13 @@
             <mxPoint x="637" y="277" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kNMagJwDBxll8O_UKaSQ-29" value="数据处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=20;fontFamily=Microsoft YaHei;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-29" value="&lt;b&gt;数据处理&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=20;fontFamily=Microsoft YaHei;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="91" y="370" width="128" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kNMagJwDBxll8O_UKaSQ-30" value="模型建立与求解" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=20;fontFamily=Microsoft YaHei;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-30" value="&lt;b&gt;模型建立与求解&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=20;fontFamily=Microsoft YaHei;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="310" y="370" width="162" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kNMagJwDBxll8O_UKaSQ-31" value="结果分析" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=20;fontFamily=Microsoft YaHei;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="kNMagJwDBxll8O_UKaSQ-31" value="&lt;b&gt;结果分析&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=20;fontFamily=Microsoft YaHei;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="581" y="370" width="112" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kNMagJwDBxll8O_UKaSQ-32" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=9;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
