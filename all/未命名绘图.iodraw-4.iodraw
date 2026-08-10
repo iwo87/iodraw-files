@@ -86,7 +86,7 @@
           <mxGeometry x="290" y="339" width="185" height="62" as="geometry" />
         </mxCell>
         <mxCell id="VHxVfyajPiCB2jMs3OKp-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;年龄-BMI策略比较&lt;br&gt;动态规划优化&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E4DFEC;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="290" y="424" width="185" height="62" as="geometry" />
+          <mxGeometry x="290" y="430" width="185" height="62" as="geometry" />
         </mxCell>
         <mxCell id="VHxVfyajPiCB2jMs3OKp-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;确定最终BMI分组&lt;br&gt;与推荐检测时点&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E4DFEC;strokeColor=#C9C9C9;strokeWidth=1.5;shadow=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
           <mxGeometry x="80" y="431" width="160" height="48" as="geometry" />
@@ -97,7 +97,7 @@
         <mxCell id="VHxVfyajPiCB2jMs3OKp-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;endSize=12;strokeColor=#B4A7F5;strokeWidth=2;" edge="1" parent="1" source="VHxVfyajPiCB2jMs3OKp-22" target="VHxVfyajPiCB2jMs3OKp-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VHxVfyajPiCB2jMs3OKp-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;endSize=12;strokeColor=#B4A7F5;strokeWidth=3;" edge="1" parent="1" source="VHxVfyajPiCB2jMs3OKp-23" target="VHxVfyajPiCB2jMs3OKp-24">
+        <mxCell id="VHxVfyajPiCB2jMs3OKp-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;endSize=12;strokeColor=#B4A7F5;strokeWidth=2;" edge="1" parent="1" source="VHxVfyajPiCB2jMs3OKp-23" target="VHxVfyajPiCB2jMs3OKp-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VHxVfyajPiCB2jMs3OKp-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#D9B3B3;strokeWidth=3;dashed=1;dashPattern=12 8;" vertex="1" parent="1">
@@ -126,9 +126,6 @@
         </mxCell>
         <mxCell id="VHxVfyajPiCB2jMs3OKp-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;endSize=12;strokeColor=#D40000;strokeWidth=6;" edge="1" parent="1" source="VHxVfyajPiCB2jMs3OKp-32" target="VHxVfyajPiCB2jMs3OKp-33">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VHxVfyajPiCB2jMs3OKp-37" value="图 2　总流程图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=24;fontStyle=1;fontColor=#000000;fontFamily=SimSun;" vertex="1" parent="1">
-          <mxGeometry x="360" y="540" width="285" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
