@@ -133,9 +133,6 @@
             <mxPoint x="575" y="385" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kNMagJwDBxll8O_UKaSQ-34" value="女胎染色体非整倍体判定思路图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=22;fontStyle=1;fontFamily=SimSun;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="100" y="420" width="600" height="38" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
