@@ -16,10 +16,10 @@
         <mxCell id="ZwcUzBVWF2wpeZNBHIeL-4" value="&lt;b&gt;纵向检测数据整理&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="72" y="116" width="166" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-5" value="BMI基线提取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-5" value="&lt;b&gt;BMI基线提取&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="72" y="156" width="166" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-6" value="技术误差分解" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-6" value="&lt;b&gt;技术误差分解&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="72" y="196" width="166" height="34" as="geometry" />
         </mxCell>
         <mxCell id="ZwcUzBVWF2wpeZNBHIeL-7" value="患者级验证划分" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
@@ -46,10 +46,10 @@
         <mxCell id="ZwcUzBVWF2wpeZNBHIeL-12" value="达标概率建模" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="308" y="52" width="174" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-13" value="继承M2混合效应模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=15;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-13" value="&lt;b&gt;继承M2混合效应模型&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=15;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="308" y="116" width="174" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-14" value="个体达标概率轨迹" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="ZwcUzBVWF2wpeZNBHIeL-14" value="&lt;b&gt;个体达标概率轨迹&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="308" y="160" width="174" height="36" as="geometry" />
         </mxCell>
         <mxCell id="ZwcUzBVWF2wpeZNBHIeL-15" value="PAVA单调投影" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEBF7;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
