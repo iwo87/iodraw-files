@@ -61,7 +61,7 @@
         <mxCell id="lel8i3-ty6qp1dLGj50--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#111111;strokeWidth=2;endArrow=classic;endFill=1;fontFamily=Times New Roman;" edge="1" parent="1" source="lel8i3-ty6qp1dLGj50--11" target="lel8i3-ty6qp1dLGj50--12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lel8i3-ty6qp1dLGj50--21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4ecef;strokeColor=#FF93A2;strokeWidth=2;dashed=1;dashPattern=7 3;fontFamily=Times New Roman;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="lel8i3-ty6qp1dLGj50--21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7FA;strokeColor=#FF93A2;strokeWidth=2;dashed=1;dashPattern=7 3;fontFamily=Times New Roman;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="454" y="115" width="257" height="285" as="geometry" />
         </mxCell>
         <mxCell id="lel8i3-ty6qp1dLGj50--22" value="分类库存&lt;br&gt;平衡模型" style="rounded=1;arcSize=30;whiteSpace=wrap;html=1;fillColor=#F8BEC7;strokeColor=none;fontFamily=Times New Roman;fontSize=14;fontStyle=1;" vertex="1" parent="1">
