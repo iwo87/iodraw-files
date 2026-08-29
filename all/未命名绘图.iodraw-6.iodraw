@@ -133,10 +133,10 @@
           <mxGeometry x="970" y="115" width="195" height="295" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-44" value="逐日最优&lt;br&gt;五班次方案" style="rounded=1;arcSize=30;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9BDFEA;strokeWidth=2;fontFamily=KaiTi;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="998" y="160" width="140" height="57" as="geometry" />
+          <mxGeometry x="998" y="179" width="140" height="57" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-45" value="30天总工日&lt;br&gt;10791" style="rounded=1;arcSize=25;whiteSpace=wrap;html=1;fillColor=#9FE3EE;strokeColor=none;fontFamily=KaiTi;fontSize=15;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1001" y="262" width="134" height="65" as="geometry" />
+          <mxGeometry x="1001" y="303.5" width="134" height="65" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#111111;strokeWidth=2;endArrow=classic;endFill=1;" edge="1" parent="1" source="BhLAYfV_G8nHqcAl-nJs-44" target="BhLAYfV_G8nHqcAl-nJs-45">
           <mxGeometry relative="1" as="geometry" />
