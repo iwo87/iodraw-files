@@ -62,10 +62,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF93A2;strokeWidth=2;dashed=1;dashPattern=7 3;" vertex="1" parent="1">
-          <mxGeometry x="462" y="115" width="257" height="295" as="geometry" />
+          <mxGeometry x="462" y="115" width="248" height="295" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-24" value="班次选择与&lt;br&gt;人数变量" style="rounded=1;arcSize=30;whiteSpace=wrap;html=1;fillColor=#F8BEC7;strokeColor=none;fontFamily=KaiTi;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="477" y="150" width="122" height="48" as="geometry" />
+          <mxGeometry x="471" y="148.5" width="122" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-25" value="+" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=34;fontStyle=1;fontColor=#F39C8D;" vertex="1" parent="1">
           <mxGeometry x="515.5" y="199" width="45" height="37" as="geometry" />
