@@ -23,7 +23,7 @@
           <mxGeometry x="106" y="152.5" width="142" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-9" value="单人处理效率" style="rounded=1;arcSize=35;whiteSpace=wrap;html=1;fillColor=#FFFDFD;strokeColor=#E88383;strokeWidth=2;dashed=1;dashPattern=6 3;fontFamily=KaiTi;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="106" y="210" width="142" height="40" as="geometry" />
+          <mxGeometry x="106" y="204" width="142" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-10" value="候选班次起点" style="rounded=1;arcSize=35;whiteSpace=wrap;html=1;fillColor=#FFFDFD;strokeColor=#E88383;strokeWidth=2;dashed=1;dashPattern=6 3;fontFamily=KaiTi;fontSize=14;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="106" y="255.5" width="142" height="40" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="265" y="340" width="137" height="43" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-15" value="时段覆盖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontFamily=KaiTi;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="185" width="72" height="25" as="geometry" />
+          <mxGeometry x="342" y="211" width="72" height="25" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#111111;strokeWidth=2;endArrow=classic;endFill=1;" edge="1" parent="1" source="BhLAYfV_G8nHqcAl-nJs-8" target="BhLAYfV_G8nHqcAl-nJs-12">
           <mxGeometry relative="1" as="geometry" />
