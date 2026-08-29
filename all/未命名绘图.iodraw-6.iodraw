@@ -26,19 +26,19 @@
           <mxGeometry x="106" y="185" width="142" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-10" value="候选班次起点" style="rounded=1;arcSize=35;whiteSpace=wrap;html=1;fillColor=#FFFDFD;strokeColor=#E88383;strokeWidth=2;dashed=1;dashPattern=6 3;fontFamily=KaiTi;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="106" y="238" width="142" height="40" as="geometry" />
+          <mxGeometry x="106" y="248" width="142" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-11" value="班次人数变量" style="rounded=1;arcSize=35;whiteSpace=wrap;html=1;fillColor=#FFFDFD;strokeColor=#E88383;strokeWidth=2;dashed=1;dashPattern=6 3;fontFamily=KaiTi;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="106" y="292" width="142" height="40" as="geometry" />
+          <mxGeometry x="106" y="300" width="142" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-12" value="班次覆盖矩阵" style="rounded=1;arcSize=30;whiteSpace=wrap;html=1;fillColor=#F7B7C2;strokeColor=none;fontFamily=KaiTi;fontSize=14;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="129.5" width="107" height="45" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-13" value="小时在岗人数" style="rounded=1;arcSize=30;whiteSpace=wrap;html=1;fillColor=#F7B7C2;strokeColor=none;fontFamily=KaiTi;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="245.5" width="107" height="45" as="geometry" />
+          <mxGeometry x="280" y="253" width="107" height="45" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-14" value="小时处理能力" style="rounded=1;arcSize=45;whiteSpace=wrap;html=1;fillColor=#FFFDFD;strokeColor=#E88383;strokeWidth=2;fontFamily=KaiTi;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="265" y="332" width="137" height="43" as="geometry" />
+          <mxGeometry x="265" y="340" width="137" height="43" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-15" value="时段覆盖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontFamily=KaiTi;fontSize=14;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="185" width="72" height="25" as="geometry" />
