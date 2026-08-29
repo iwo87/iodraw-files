@@ -64,13 +64,8 @@
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-22" value="" style="shape=chevron;whiteSpace=wrap;html=1;fillColor=#8C9698;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="432" y="218" width="21" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="BhLAYfV_G8nHqcAl-nJs-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BhLAYfV_G8nHqcAl-nJs-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="587" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF93A2;strokeWidth=2;dashed=1;dashPattern=7 3;" vertex="1" parent="1">
-          <mxGeometry x="458.5" y="115" width="257" height="244" as="geometry" />
+          <mxGeometry x="462" y="115" width="257" height="244" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-24" value="班次选择与&lt;br&gt;人数变量" style="rounded=1;arcSize=30;whiteSpace=wrap;html=1;fillColor=#F8BEC7;strokeColor=none;fontFamily=KaiTi;fontSize=14;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="472" y="136" width="122" height="48" as="geometry" />
