@@ -78,7 +78,7 @@
           <mxGeometry x="546" y="125" width="166" height="183" as="geometry" />
         </mxCell>
         <mxCell id="3A-wy7ug3D9B14TvV9oX-23" value="解析下界 + CP-SAT" style="rounded=1;arcSize=25;whiteSpace=wrap;html=1;fillColor=#F7BBC1;strokeColor=none;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="137" width="95" height="38" as="geometry" />
+          <mxGeometry x="581.5" y="141" width="95" height="38" as="geometry" />
         </mxCell>
         <mxCell id="3A-wy7ug3D9B14TvV9oX-24" value="581人、冗余53&#xa;离差149" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#FFB4B0;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="573" y="197" width="112" height="51" as="geometry" />
