@@ -103,9 +103,6 @@
         <mxCell id="3A-wy7ug3D9B14TvV9oX-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3A-wy7ug3D9B14TvV9oX-10" target="3A-wy7ug3D9B14TvV9oX-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3A-wy7ug3D9B14TvV9oX-41" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=8.11;feather=0.4;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="10" y="450" width="69.99" height="38.12" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
