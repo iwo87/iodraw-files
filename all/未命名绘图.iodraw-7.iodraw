@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lel8i3-ty6qp1dLGj50--1" value="新增约束与货物流分类" style="shape=chevron;whiteSpace=wrap;html=1;fillColor=#F6DAB5;strokeColor=none;fontFamily=KaiTi;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="1">
+        <mxCell id="lel8i3-ty6qp1dLGj50--1" value="新增约束与货物流分类" style="shape=chevron;whiteSpace=wrap;html=1;fillColor=#F6DAB5;strokeColor=none;fontFamily=KaiTi;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=8;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="28" width="335" height="64" as="geometry" />
         </mxCell>
         <mxCell id="lel8i3-ty6qp1dLGj50--2" value="核心数学模型构建" style="shape=chevron;whiteSpace=wrap;html=1;fillColor=#F6DAB5;strokeColor=none;fontFamily=KaiTi;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="1">
@@ -135,9 +135,6 @@
         </mxCell>
         <mxCell id="lel8i3-ty6qp1dLGj50--44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#111111;strokeWidth=2;endArrow=classic;endFill=1;" edge="1" parent="1" source="lel8i3-ty6qp1dLGj50--42" target="lel8i3-ty6qp1dLGj50--43">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lel8i3-ty6qp1dLGj50--45" value="图 3　问题二流程图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontFamily=KaiTi;fontSize=20;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="470" y="427" width="340" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
