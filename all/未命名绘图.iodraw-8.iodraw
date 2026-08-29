@@ -37,6 +37,9 @@
         <mxCell id="3A-wy7ug3D9B14TvV9oX-11" value="具体班次变量" style="rounded=1;arcSize=22;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9DE8DE;strokeWidth=2;dashed=1;dashPattern=5 3;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="135.5" y="291.5" width="169" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="3A-wy7ug3D9B14TvV9oX-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3A-wy7ug3D9B14TvV9oX-13" target="3A-wy7ug3D9B14TvV9oX-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3A-wy7ug3D9B14TvV9oX-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FBFFFF;strokeColor=#4BB3CA;strokeWidth=2;dashed=1;dashPattern=6 3;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="337" y="125" width="189" height="215" as="geometry" />
         </mxCell>
