@@ -7,10 +7,10 @@
         <mxCell id="3A-wy7ug3D9B14TvV9oX-1" value="优化目标与决策变量定义" style="shape=chevron;whiteSpace=wrap;html=1;fillColor=#F8DEB9;strokeColor=none;fontFamily=Times New Roman;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=6;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="62" y="62" width="264" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="3A-wy7ug3D9B14TvV9oX-2" value="约束条件构建" style="shape=chevron;whiteSpace=wrap;html=1;fillColor=#F8DEB9;strokeColor=none;fontFamily=Times New Roman;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=6;" vertex="1" parent="1">
+        <mxCell id="3A-wy7ug3D9B14TvV9oX-2" value="约束条件构建" style="shape=chevron;whiteSpace=wrap;html=1;fillColor=#F8DEB9;strokeColor=none;fontFamily=Times New Roman;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=6;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="342" y="62" width="189" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="3A-wy7ug3D9B14TvV9oX-3" value="分层优化算法求解" style="shape=chevron;whiteSpace=wrap;html=1;fillColor=#F8DEB9;strokeColor=none;fontFamily=Times New Roman;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=6;" vertex="1" parent="1">
+        <mxCell id="3A-wy7ug3D9B14TvV9oX-3" value="分层优化算法求解" style="shape=chevron;whiteSpace=wrap;html=1;fillColor=#F8DEB9;strokeColor=none;fontFamily=Times New Roman;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=6;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="62" width="168" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3A-wy7ug3D9B14TvV9oX-4" value="结果输出" style="shape=chevron;whiteSpace=wrap;html=1;fillColor=#F8DEB9;strokeColor=none;fontFamily=Times New Roman;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=6;" vertex="1" parent="1">
@@ -34,7 +34,7 @@
         <mxCell id="3A-wy7ug3D9B14TvV9oX-10" value="工作日历变量&amp;nbsp;" style="rounded=1;arcSize=22;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9DE8DE;strokeWidth=2;dashed=1;dashPattern=5 3;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="146" y="216" width="169" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="3A-wy7ug3D9B14TvV9oX-11" value="具体班次变量 z_ids" style="rounded=1;arcSize=22;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9DE8DE;strokeWidth=2;dashed=1;dashPattern=5 3;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="3A-wy7ug3D9B14TvV9oX-11" value="具体班次变量" style="rounded=1;arcSize=22;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9DE8DE;strokeWidth=2;dashed=1;dashPattern=5 3;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="146" y="263" width="169" height="35" as="geometry" />
         </mxCell>
         <mxCell id="3A-wy7ug3D9B14TvV9oX-12" value="" style="shape=chevron;whiteSpace=wrap;html=1;fillColor=#78868A;strokeColor=none;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
