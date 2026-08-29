@@ -135,7 +135,7 @@
         <mxCell id="lel8i3-ty6qp1dLGj50--42" value="逐日最低&lt;br&gt;人数需求" style="rounded=1;arcSize=30;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9BDFEA;strokeWidth=2;fontFamily=Times New Roman;fontSize=14;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="998" y="179" width="140" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="lel8i3-ty6qp1dLGj50--43" value="月度最低工日 11858&lt;br&gt;最大单日人数 581" style="rounded=1;arcSize=25;whiteSpace=wrap;html=1;fillColor=#9FE3EE;strokeColor=none;fontFamily=Times New Roman;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="lel8i3-ty6qp1dLGj50--43" value="月度最低工日&amp;nbsp;&lt;br&gt;最大单日人数&amp;nbsp;" style="rounded=1;arcSize=25;whiteSpace=wrap;html=1;fillColor=#9FE3EE;strokeColor=none;fontFamily=Times New Roman;fontSize=14;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="994" y="281" width="148" height="65" as="geometry" />
         </mxCell>
         <mxCell id="lel8i3-ty6qp1dLGj50--44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#111111;strokeWidth=2;endArrow=classic;endFill=1;fontFamily=Times New Roman;" edge="1" parent="1" source="lel8i3-ty6qp1dLGj50--42" target="lel8i3-ty6qp1dLGj50--43">
