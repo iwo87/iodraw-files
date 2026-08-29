@@ -68,13 +68,13 @@
           <mxGeometry x="471" y="148.5" width="122" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-25" value="+" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontFamily=Arial;fontSize=34;fontStyle=1;fontColor=#F39C8D;" vertex="1" parent="1">
-          <mxGeometry x="515.5" y="199" width="45" height="37" as="geometry" />
+          <mxGeometry x="509.5" y="199" width="45" height="37" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-26" value="小时处理能力与&lt;br&gt;库存流守恒" style="rounded=1;arcSize=25;whiteSpace=wrap;html=1;fillColor=#F8BEC7;strokeColor=none;fontFamily=KaiTi;fontSize=14;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="238" width="134" height="54" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-27" value="总工人数&lt;br&gt;N_d" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFDFC;strokeColor=#F19D86;strokeWidth=2;fontFamily=KaiTi;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="624" y="143" width="87" height="62" as="geometry" />
+          <mxGeometry x="625" y="148.5" width="87" height="62" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-28" value="字典序目标" style="rounded=1;arcSize=25;whiteSpace=wrap;html=1;fillColor=#F8BEC7;strokeColor=none;fontFamily=KaiTi;fontSize=14;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="472.5" y="321" width="119" height="42" as="geometry" />
