@@ -109,13 +109,13 @@
           <mxGeometry x="775" y="130" width="134" height="59" as="geometry" />
         </mxCell>
         <mxCell id="lel8i3-ty6qp1dLGj50--34" value="最小化 N_d" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FEFFFF;strokeColor=#A7E2D8;strokeWidth=2;dashed=1;dashPattern=6 3;fontFamily=Times New Roman;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="748" y="222" width="121" height="44" as="geometry" />
+          <mxGeometry x="781.5" y="211" width="121" height="44" as="geometry" />
         </mxCell>
         <mxCell id="lel8i3-ty6qp1dLGj50--35" value="固定前层&lt;br&gt;最优值" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F4FFF8;strokeColor=#A9E1BA;strokeWidth=2;fontFamily=Times New Roman;fontSize=13;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="858" y="239" width="79" height="49" as="geometry" />
         </mxCell>
         <mxCell id="lel8i3-ty6qp1dLGj50--36" value="依次最小化 P_d&lt;br&gt;与累计积压" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D8F3E4;strokeColor=#B3E7C7;strokeWidth=1;fontFamily=Times New Roman;fontSize=13;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="766" y="301" width="169" height="45" as="geometry" />
+          <mxGeometry x="768" y="331.5" width="169" height="45" as="geometry" />
         </mxCell>
         <mxCell id="lel8i3-ty6qp1dLGj50--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#111111;strokeWidth=2;endArrow=classic;endFill=1;fontFamily=Times New Roman;" edge="1" parent="1" source="lel8i3-ty6qp1dLGj50--33" target="lel8i3-ty6qp1dLGj50--34">
           <mxGeometry relative="1" as="geometry" />
