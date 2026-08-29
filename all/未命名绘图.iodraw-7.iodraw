@@ -83,7 +83,7 @@
           <mxGeometry x="477.5" y="327" width="119" height="42" as="geometry" />
         </mxCell>
         <mxCell id="lel8i3-ty6qp1dLGj50--27" value="总人数、峰值&lt;br&gt;与累计积压" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFDFC;strokeColor=#F19D86;strokeWidth=2;fontFamily=Times New Roman;fontSize=13;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="613" y="276" width="88" height="57" as="geometry" />
+          <mxGeometry x="612" y="319.5" width="88" height="57" as="geometry" />
         </mxCell>
         <mxCell id="lel8i3-ty6qp1dLGj50--28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#111111;strokeWidth=2;endArrow=classic;endFill=1;fontFamily=Times New Roman;" edge="1" parent="1" source="lel8i3-ty6qp1dLGj50--22" target="lel8i3-ty6qp1dLGj50--25">
           <mxGeometry relative="1" as="geometry" />
