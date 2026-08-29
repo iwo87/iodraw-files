@@ -26,16 +26,16 @@
           <mxGeometry x="63.5" y="195" width="72" height="38" as="geometry" />
         </mxCell>
         <mxCell id="3A-wy7ug3D9B14TvV9oX-8" value="最少招聘人数" style="rounded=1;arcSize=20;whiteSpace=wrap;html=1;fillColor=#91DFEC;strokeColor=none;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="143" y="194" width="169" height="39" as="geometry" />
+          <mxGeometry x="140.5" y="194" width="169" height="39" as="geometry" />
         </mxCell>
         <mxCell id="3A-wy7ug3D9B14TvV9oX-9" value="决策变量" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A7E8DF;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="72.5" y="263" width="67" height="56" as="geometry" />
+          <mxGeometry x="66" y="263" width="67" height="56" as="geometry" />
         </mxCell>
         <mxCell id="3A-wy7ug3D9B14TvV9oX-10" value="工作日历变量&amp;nbsp;" style="rounded=1;arcSize=22;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9DE8DE;strokeWidth=2;dashed=1;dashPattern=5 3;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="146" y="245" width="169" height="35" as="geometry" />
+          <mxGeometry x="140.5" y="245" width="169" height="35" as="geometry" />
         </mxCell>
         <mxCell id="3A-wy7ug3D9B14TvV9oX-11" value="具体班次变量" style="rounded=1;arcSize=22;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9DE8DE;strokeWidth=2;dashed=1;dashPattern=5 3;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="146" y="292" width="169" height="35" as="geometry" />
+          <mxGeometry x="140.5" y="291.5" width="169" height="35" as="geometry" />
         </mxCell>
         <mxCell id="3A-wy7ug3D9B14TvV9oX-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FBFFFF;strokeColor=#4BB3CA;strokeWidth=2;dashed=1;dashPattern=6 3;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="341" y="125" width="189" height="215" as="geometry" />
@@ -105,6 +105,9 @@
             <mxPoint x="340" y="470" as="sourcePoint" />
             <mxPoint x="370" y="470" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3A-wy7ug3D9B14TvV9oX-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3A-wy7ug3D9B14TvV9oX-10" target="3A-wy7ug3D9B14TvV9oX-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
