@@ -77,7 +77,7 @@
           <mxGeometry x="612" y="150" width="87" height="62" as="geometry" />
         </mxCell>
         <mxCell id="lel8i3-ty6qp1dLGj50--26" value="字典序目标" style="rounded=1;arcSize=25;whiteSpace=wrap;html=1;fillColor=#F8BEC7;strokeColor=none;fontFamily=Times New Roman;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="477.5" y="327" width="119" height="42" as="geometry" />
+          <mxGeometry x="480.75" y="327" width="112.5" height="42" as="geometry" />
         </mxCell>
         <mxCell id="lel8i3-ty6qp1dLGj50--27" value="总人数、峰值&lt;br&gt;与累计积压" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFDFC;strokeColor=#F19D86;strokeWidth=2;fontFamily=Times New Roman;fontSize=13;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="612" y="319.5" width="88" height="57" as="geometry" />
