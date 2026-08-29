@@ -80,7 +80,7 @@
           <mxGeometry x="624.5" y="143" width="87" height="62" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-28" value="字典序目标" style="rounded=1;arcSize=25;whiteSpace=wrap;html=1;fillColor=#F8BEC7;strokeColor=none;fontFamily=KaiTi;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="477" y="321" width="119" height="42" as="geometry" />
+          <mxGeometry x="478.5" y="321" width="119" height="42" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-29" value="峰值在岗&lt;br&gt;与累计积压" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFDFC;strokeColor=#F19D86;strokeWidth=2;fontFamily=KaiTi;fontSize=13;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="624" y="313.5" width="88" height="57" as="geometry" />
