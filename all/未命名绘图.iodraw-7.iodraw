@@ -77,7 +77,7 @@
           <mxGeometry x="470" y="240.5" width="134" height="54" as="geometry" />
         </mxCell>
         <mxCell id="lel8i3-ty6qp1dLGj50--25" value="16时截止&lt;br&gt;清零" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFDFC;strokeColor=#F19D86;strokeWidth=2;fontFamily=Times New Roman;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="612" y="149" width="87" height="62" as="geometry" />
+          <mxGeometry x="612" y="150" width="87" height="62" as="geometry" />
         </mxCell>
         <mxCell id="lel8i3-ty6qp1dLGj50--26" value="字典序目标" style="rounded=1;arcSize=25;whiteSpace=wrap;html=1;fillColor=#F8BEC7;strokeColor=none;fontFamily=Times New Roman;fontSize=14;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="477.5" y="327" width="119" height="42" as="geometry" />
@@ -106,7 +106,7 @@
           <mxGeometry x="734" y="115" width="216" height="285" as="geometry" />
         </mxCell>
         <mxCell id="lel8i3-ty6qp1dLGj50--33" value="CP-SAT&lt;br&gt;按日三级求解" style="rounded=1;arcSize=30;whiteSpace=wrap;html=1;fillColor=#BFEAE3;strokeColor=none;fontFamily=Times New Roman;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="802" y="136" width="134" height="59" as="geometry" />
+          <mxGeometry x="775" y="130" width="134" height="59" as="geometry" />
         </mxCell>
         <mxCell id="lel8i3-ty6qp1dLGj50--34" value="最小化 N_d" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FEFFFF;strokeColor=#A7E2D8;strokeWidth=2;dashed=1;dashPattern=6 3;fontFamily=Times New Roman;fontSize=14;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="748" y="222" width="121" height="44" as="geometry" />
