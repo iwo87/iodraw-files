@@ -11,7 +11,7 @@
           <mxGeometry x="462" y="28" width="250" height="64" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-5" value="算法求解" style="shape=chevron;whiteSpace=wrap;html=1;fillColor=#F6DAB5;strokeColor=none;fontFamily=KaiTi;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=8;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="735" y="28" width="195" height="64" as="geometry" />
+          <mxGeometry x="745" y="28" width="195" height="64" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-6" value="结果输出" style="shape=chevron;whiteSpace=wrap;html=1;fillColor=#F6DAB5;strokeColor=none;fontFamily=KaiTi;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=8;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="968" y="28" width="175" height="64" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="471" y="235.5" width="134" height="54" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-27" value="总工人数&lt;br&gt;N_d" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFDFC;strokeColor=#F19D86;strokeWidth=2;fontFamily=KaiTi;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="624.5" y="143" width="87" height="62" as="geometry" />
+          <mxGeometry x="624" y="143" width="87" height="62" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-28" value="字典序目标" style="rounded=1;arcSize=25;whiteSpace=wrap;html=1;fillColor=#F8BEC7;strokeColor=none;fontFamily=KaiTi;fontSize=14;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="478.5" y="321" width="119" height="42" as="geometry" />
