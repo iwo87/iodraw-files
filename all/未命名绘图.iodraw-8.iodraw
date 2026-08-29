@@ -86,7 +86,7 @@
           <mxGeometry x="742" y="199" width="112" height="38" as="geometry" />
         </mxCell>
         <mxCell id="3A-wy7ug3D9B14TvV9oX-32" value="最大冗余53&#xa;离差149" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#FFB3B4;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="739" y="250" width="55" height="49" as="geometry" />
+          <mxGeometry x="739" y="274" width="55" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3A-wy7ug3D9B14TvV9oX-33" value="七连勤431&#xa;换班749" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#FFB3B4;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="802" y="250" width="55" height="49" as="geometry" />
