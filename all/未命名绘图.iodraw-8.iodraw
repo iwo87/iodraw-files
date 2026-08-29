@@ -71,7 +71,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3A-wy7ug3D9B14TvV9oX-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFDFD;strokeColor=#FF8995;strokeWidth=2;dashed=1;dashPattern=6 3;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="741" y="125" width="140" height="215" as="geometry" />
+          <mxGeometry x="740" y="125" width="140" height="215" as="geometry" />
         </mxCell>
         <mxCell id="3A-wy7ug3D9B14TvV9oX-30" value="最优排班结果输出" style="rounded=1;arcSize=20;whiteSpace=wrap;html=1;fillColor=#F5B5C2;strokeColor=none;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="751.5" y="141" width="118" height="39" as="geometry" />
