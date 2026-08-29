@@ -101,7 +101,7 @@
           <mxGeometry x="734" y="115" width="216" height="244" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-35" value="CP-SAT&lt;br&gt;按日三级求解" style="rounded=1;arcSize=30;whiteSpace=wrap;html=1;fillColor=#BFEAE3;strokeColor=none;fontFamily=KaiTi;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="802" y="136" width="134" height="59" as="geometry" />
+          <mxGeometry x="775" y="126" width="134" height="59" as="geometry" />
         </mxCell>
         <mxCell id="BhLAYfV_G8nHqcAl-nJs-36" value="最小化 N_d" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FEFFFF;strokeColor=#A7E2D8;strokeWidth=2;dashed=1;dashPattern=6 3;fontFamily=KaiTi;fontSize=14;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="748" y="222" width="121" height="44" as="geometry" />
