@@ -47,7 +47,7 @@
           <mxGeometry x="423" y="179" width="25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3A-wy7ug3D9B14TvV9oX-16" value="逐日需求&#xa;覆盖约束" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AFE8D2;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="449" y="165" width="71" height="58" as="geometry" />
+          <mxGeometry x="448" y="150" width="82" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3A-wy7ug3D9B14TvV9oX-17" value="月度工作日历&#xa;基本模型" style="rounded=1;arcSize=25;whiteSpace=wrap;html=1;fillColor=#BEEBCB;strokeColor=none;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="394" y="260" width="92" height="59" as="geometry" />
