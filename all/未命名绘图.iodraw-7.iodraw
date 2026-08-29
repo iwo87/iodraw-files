@@ -76,6 +76,9 @@
         <mxCell id="lel8i3-ty6qp1dLGj50--25" value="16时截止&lt;br&gt;清零" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFDFC;strokeColor=#F19D86;strokeWidth=2;fontFamily=Times New Roman;fontSize=14;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="612" y="150" width="87" height="62" as="geometry" />
         </mxCell>
+        <mxCell id="lel8i3-ty6qp1dLGj50--53" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="lel8i3-ty6qp1dLGj50--26" target="lel8i3-ty6qp1dLGj50--27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lel8i3-ty6qp1dLGj50--26" value="字典序目标" style="rounded=1;arcSize=25;whiteSpace=wrap;html=1;fillColor=#F8BEC7;strokeColor=none;fontFamily=Times New Roman;fontSize=14;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="480.75" y="327" width="112.5" height="42" as="geometry" />
         </mxCell>
