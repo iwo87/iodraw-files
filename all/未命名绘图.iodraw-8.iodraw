@@ -23,10 +23,10 @@
           <mxGeometry x="63.5" y="147" width="246" height="33" as="geometry" />
         </mxCell>
         <mxCell id="3A-wy7ug3D9B14TvV9oX-7" value="优化目标" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A7E8DF;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="63.5" y="195" width="72" height="38" as="geometry" />
+          <mxGeometry x="61" y="194" width="72" height="45" as="geometry" />
         </mxCell>
         <mxCell id="3A-wy7ug3D9B14TvV9oX-8" value="最少招聘人数" style="rounded=1;arcSize=20;whiteSpace=wrap;html=1;fillColor=#91DFEC;strokeColor=none;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="140.5" y="194" width="169" height="39" as="geometry" />
+          <mxGeometry x="135.5" y="194" width="169" height="39" as="geometry" />
         </mxCell>
         <mxCell id="3A-wy7ug3D9B14TvV9oX-9" value="决策变量" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A7E8DF;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="66" y="263" width="67" height="56" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="135.5" y="291.5" width="169" height="35" as="geometry" />
         </mxCell>
         <mxCell id="3A-wy7ug3D9B14TvV9oX-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FBFFFF;strokeColor=#4BB3CA;strokeWidth=2;dashed=1;dashPattern=6 3;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="341" y="125" width="189" height="215" as="geometry" />
+          <mxGeometry x="337" y="125" width="189" height="215" as="geometry" />
         </mxCell>
         <mxCell id="3A-wy7ug3D9B14TvV9oX-14" value="23天工日与&#xa;连续工作约束" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AFE8D2;strokeWidth=2;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="346" y="150" width="77" height="70" as="geometry" />
