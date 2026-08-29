@@ -97,7 +97,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lel8i3-ty6qp1dLGj50--32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FBFFFF;strokeColor=#91E8DD;strokeWidth=2;dashed=1;dashPattern=7 3;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="734" y="115" width="216" height="285" as="geometry" />
+          <mxGeometry x="740" y="115" width="200" height="285" as="geometry" />
         </mxCell>
         <mxCell id="lel8i3-ty6qp1dLGj50--33" value="CP-SAT&lt;br&gt;按日三级求解" style="rounded=1;arcSize=30;whiteSpace=wrap;html=1;fillColor=#BFEAE3;strokeColor=none;fontFamily=Times New Roman;fontSize=14;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="775" y="130" width="134" height="59" as="geometry" />
