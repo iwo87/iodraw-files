@@ -26,7 +26,7 @@
           <mxGeometry x="106" y="204" width="142" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lel8i3-ty6qp1dLGj50--8" value="16时截止要求" style="rounded=1;arcSize=35;whiteSpace=wrap;html=1;fillColor=#FFFDFD;strokeColor=#E88383;strokeWidth=2;dashed=1;dashPattern=6 3;fontFamily=Times New Roman;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="106" y="262" width="142" height="40" as="geometry" />
+          <mxGeometry x="106" y="252" width="142" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lel8i3-ty6qp1dLGj50--9" value="每人1小时低效" style="rounded=1;arcSize=35;whiteSpace=wrap;html=1;fillColor=#FFFDFD;strokeColor=#E88383;strokeWidth=2;dashed=1;dashPattern=6 3;fontFamily=Times New Roman;fontSize=14;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="106" y="320" width="142" height="40" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="280" y="133" width="107" height="45" as="geometry" />
         </mxCell>
         <mxCell id="lel8i3-ty6qp1dLGj50--11" value="低效人数分配" style="rounded=1;arcSize=30;whiteSpace=wrap;html=1;fillColor=#F7B7C2;strokeColor=none;fontFamily=Times New Roman;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="217" width="107" height="45" as="geometry" />
+          <mxGeometry x="280" y="247" width="107" height="45" as="geometry" />
         </mxCell>
         <mxCell id="lel8i3-ty6qp1dLGj50--12" value="有效处理能力" style="rounded=1;arcSize=45;whiteSpace=wrap;html=1;fillColor=#FFFDFD;strokeColor=#E88383;strokeWidth=2;fontFamily=Times New Roman;fontSize=14;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="346" width="137" height="43" as="geometry" />
