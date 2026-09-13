@@ -109,10 +109,10 @@
         <mxCell id="c4_1" value="&lt;b&gt;输出搜索、定位与清除方案&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7EBC6;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1250" y="112" width="225" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="c4_2" value="&lt;b&gt;三次正式测试&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7EBC6;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="c4_2" value="&lt;b&gt;三次正式测试&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7EBC6;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1250" y="206" width="225" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="c4_3" value="平均定位清除时间&lt;br&gt;412.56 s ～ 715.33 s" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="c4_3" value="&lt;b&gt;平均定位清除时间&lt;br&gt;412.56 s ～ 715.33 s&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1250" y="310" width="225" height="68" as="geometry" />
         </mxCell>
         <mxCell id="c4_4" value="检验全局搜索完备性&lt;br&gt;以及定位与清除安全性" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
