@@ -46,13 +46,13 @@
         <mxCell id="b1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;收到方向信号&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=none;fontSize=19;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="480" y="112" width="230" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="b2" value="&lt;b&gt;缩小干扰源可能区域&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="b2" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;缩小干扰源可能区域&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="480" y="205" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b3" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;顺路补测&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;提高定位精度&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="480" y="300" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="b4" value="满足条件后确定待清除目标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#D0D0D0;arcSize=18;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="b4" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;确定待清除目标&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#D0D0D0;arcSize=18;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="480" y="419" width="230" height="62" as="geometry" />
         </mxCell>
         <mxCell id="b5" value="若距离很近，直接定位清除" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
