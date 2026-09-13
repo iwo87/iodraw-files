@@ -40,7 +40,7 @@
         <mxCell id="c1_3" value="&lt;b&gt;构造 25 点扫描骨架&lt;br&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;中心点 + 内环12点 + 外环12点&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="110" y="326" width="225" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="c1_4" value="形成 36 个完整三角单元&lt;br&gt;实现距离--方向联合完备搜索" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="c1_4" value="&lt;b&gt;单元完备搜索&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="110" y="462" width="225" height="84" as="geometry" />
         </mxCell>
         <mxCell id="e11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" parent="1" source="c1_1" target="c1_2" edge="1">
