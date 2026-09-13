@@ -55,7 +55,7 @@
         <mxCell id="b4" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;确定待清除目标&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#D0D0D0;arcSize=18;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="480" y="419" width="230" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="b5" value="近距离定点消除" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="b5" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;近距离定点消除&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="480" y="507" width="230" height="62" as="geometry" />
         </mxCell>
         <mxCell id="eb1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" parent="1" source="b1" target="b2" edge="1">
