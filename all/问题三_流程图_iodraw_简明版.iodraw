@@ -130,10 +130,10 @@
         <mxCell id="t1" value="&lt;b&gt;扫描搜索&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=25;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
           <mxGeometry x="125" y="635" width="200" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="t2" value="在线定位" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=25;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+        <mxCell id="t2" value="&lt;b&gt;在线定位&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=25;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
           <mxGeometry x="495" y="635" width="200" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="t3" value="任务清除" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=25;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+        <mxCell id="t3" value="&lt;b&gt;任务清除&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=25;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
           <mxGeometry x="865" y="635" width="200" height="42" as="geometry" />
         </mxCell>
         <mxCell id="t4" value="路径优化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=25;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
