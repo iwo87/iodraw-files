@@ -127,7 +127,7 @@
         <mxCell id="x34" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#2F5597;strokeColor=#2F5597;direction=east;" parent="1" vertex="1">
           <mxGeometry x="1132" y="295" width="36" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="t1" value="完备搜索" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=25;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+        <mxCell id="t1" value="&lt;b&gt;完备搜索&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=25;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
           <mxGeometry x="125" y="635" width="200" height="42" as="geometry" />
         </mxCell>
         <mxCell id="t2" value="在线定位" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=25;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
