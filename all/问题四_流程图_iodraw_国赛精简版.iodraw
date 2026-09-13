@@ -35,7 +35,7 @@
           <mxGeometry x="110" y="118" width="225" height="56" as="geometry" />
         </mxCell>
         <mxCell id="c1_2" value="&lt;b&gt;距离覆盖不能保证定向源被发现&lt;br&gt;no_signal 存在方向歧义&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="110" y="204" width="240" height="92" as="geometry" />
+          <mxGeometry x="102.5" y="202" width="240" height="92" as="geometry" />
         </mxCell>
         <mxCell id="c1_3" value="构造 25 点扫描骨架" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="110" y="326" width="225" height="74" as="geometry" />
