@@ -82,16 +82,16 @@
         <mxCell id="c3_1" value="方向完备扫描&lt;br&gt;依次访问 25 个扫描点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7EBC6;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="870" y="112" width="225" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="c3_2" value="若返回 direction&lt;br&gt;更新安全定位区域与最小包围圆" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="c3_2" value="若返回 direction&lt;br&gt;更新安全定位区域与最小包围圆" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="870" y="206" width="225" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="c3_3" value="若返回 near&lt;br&gt;直接执行目标清除" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="c3_3" value="若返回 near&lt;br&gt;直接执行目标清除" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="870" y="310" width="225" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="c3_4" value="满足局部探测条件时&lt;br&gt;至多三次补测获取新的有效示向" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="c3_4" value="满足局部探测条件时&lt;br&gt;至多三次补测获取新的有效示向" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="870" y="404" width="225" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="c3_5" value="结合空间分区恢复策略&lt;br&gt;实现提前收尾与安全终止" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="c3_5" value="结合空间分区恢复策略&lt;br&gt;实现提前收尾与安全终止" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="870" y="508" width="225" height="74" as="geometry" />
         </mxCell>
         <mxCell id="e31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" parent="1" source="c3_1" target="c3_2" edge="1">
