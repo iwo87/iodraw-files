@@ -1,0 +1,172 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="q4-flow" name="问题四流程图">
+    <mxGraphModel dx="1221" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="980" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;dashed=1;dashPattern=8 6;arcSize=10;" parent="1" vertex="1">
+          <mxGeometry x="55" y="78" width="335" height="566" as="geometry" />
+        </mxCell>
+        <mxCell id="g2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;dashed=1;dashPattern=8 6;arcSize=10;" parent="1" vertex="1">
+          <mxGeometry x="435" y="78" width="335" height="566" as="geometry" />
+        </mxCell>
+        <mxCell id="g3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;dashed=1;dashPattern=8 6;arcSize=10;" parent="1" vertex="1">
+          <mxGeometry x="815" y="78" width="335" height="566" as="geometry" />
+        </mxCell>
+        <mxCell id="g4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;dashed=1;dashPattern=8 6;arcSize=10;" parent="1" vertex="1">
+          <mxGeometry x="1195" y="78" width="335" height="566" as="geometry" />
+        </mxCell>
+        <mxCell id="panel1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDEDED;strokeColor=#D0D0D0;strokeWidth=1;arcSize=18;" parent="1" vertex="1">
+          <mxGeometry x="72" y="94" width="301" height="332" as="geometry" />
+        </mxCell>
+        <mxCell id="panel2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDEDED;strokeColor=#D0D0D0;strokeWidth=1;arcSize=18;" parent="1" vertex="1">
+          <mxGeometry x="452" y="94" width="301" height="394" as="geometry" />
+        </mxCell>
+        <mxCell id="ba1" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#2F5597;strokeColor=#2F5597;direction=east;" parent="1" vertex="1">
+          <mxGeometry x="394" y="315" width="36" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="ba2" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#2F5597;strokeColor=#2F5597;direction=east;" parent="1" vertex="1">
+          <mxGeometry x="774" y="315" width="36" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="ba3" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#2F5597;strokeColor=#2F5597;direction=east;" parent="1" vertex="1">
+          <mxGeometry x="1154" y="315" width="36" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="c1_1" value="&lt;b&gt;混合干扰源场景&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7EBC6;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="110" y="118" width="225" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c1_2" value="距离覆盖不能保证定向源被发现&lt;br&gt;no_signal 存在方向歧义" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="110" y="204" width="225" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="c1_3" value="构造 25 点扫描骨架" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="110" y="326" width="225" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="c1_4" value="三角单元覆盖&lt;br&gt;保证距离--方向联合完备性" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="110" y="462" width="225" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="e11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" parent="1" source="c1_1" target="c1_2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" parent="1" source="c1_2" target="c1_3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" parent="1" source="c1_3" target="c1_4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2_1" value="有效 direction&lt;br&gt;更新安全定位区域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7EBC6;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="490" y="118" width="225" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="c2_2" value="no_signal 不直接收缩定位区域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="490" y="220" width="225" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="c2_3" value="局部三角探测&lt;br&gt;加快有效示向获取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="490" y="322" width="225" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="c2_4" value="空间分区恢复&lt;br&gt;协调主动补测与自然补测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="490" y="422" width="225" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="c2_5" value="路径嵌入优化&lt;br&gt;减少额外移动与重复检测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDEDED;strokeColor=#CFCFCF;arcSize=18;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="490" y="522" width="225" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="e21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" parent="1" source="c2_1" target="c2_2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" parent="1" source="c2_2" target="c2_3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" parent="1" source="c2_3" target="c2_4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" parent="1" source="c2_4" target="c2_5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3_1" value="25 点方向完备扫描" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7EBC6;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="870" y="112" width="225" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="c3_2" value="direction：更新定位区域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="870" y="206" width="225" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="c3_3" value="near：直接清除" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="870" y="310" width="225" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="c3_4" value="局部探测&lt;br&gt;获取新的有效示向" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="870" y="404" width="225" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="c3_5" value="空间恢复与提前收尾&lt;br&gt;满足条件后安全终止" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="870" y="508" width="225" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="e31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" parent="1" source="c3_1" target="c3_2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" parent="1" source="c3_2" target="c3_3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" parent="1" source="c3_3" target="c3_4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" parent="1" source="c3_4" target="c3_5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_1" value="形成搜索--定位--清除方案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7EBC6;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="112" width="225" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_2" value="三次正式测试" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7EBC6;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="206" width="225" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_3" value="比较定位清除效率" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="310" width="225" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_4" value="检验搜索完备性&lt;br&gt;与清除安全性" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="408" width="225" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="c4_5" value="核对时间一致性&lt;br&gt;验证模型可靠性" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="510" width="225" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="e41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" parent="1" source="c4_1" target="c4_2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" parent="1" source="c4_2" target="c4_3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" parent="1" source="c4_3" target="c4_4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" parent="1" source="c4_4" target="c4_5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1" value="完备搜索" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=24;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="120" y="656" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s2" value="策略设计" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=24;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="500" y="656" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s3" value="在线求解" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=24;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="880" y="656" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s4" value="结果检验" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=24;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="1225" y="656" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sb12" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#000000;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="675" as="sourcePoint" />
+            <mxPoint x="470" y="675" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sb23" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#000000;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="675" as="sourcePoint" />
+            <mxPoint x="850" y="675" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sb34" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#000000;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="675" as="sourcePoint" />
+            <mxPoint x="1210" y="675" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cap" value="图  问题四混合干扰源搜索、定位与清除求解思路图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=24;fontFamily=SimSun;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="735" width="760" height="42" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
