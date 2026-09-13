@@ -20,9 +20,9 @@
           <mxGeometry x="78" y="88" width="294" height="312" as="geometry" />
         </mxCell>
         <mxCell id="panel2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#D3D3D3;strokeWidth=1;arcSize=18;" parent="1" vertex="1">
-          <mxGeometry x="448" y="88" width="262.08" height="312" as="geometry" />
+          <mxGeometry x="448" y="88" width="294" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="a1" value="&lt;b&gt;构造七点完备扫描骨架&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="a1" value="构造七点完备扫描骨架" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="110" y="112" width="230" height="58" as="geometry" />
         </mxCell>
         <mxCell id="a2" value="沿扫描主路径依次检测&lt;br&gt;尚未确认的频道" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
@@ -136,7 +136,7 @@
         <mxCell id="t3" value="&lt;b&gt;动态清除&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=25;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
           <mxGeometry x="865" y="635" width="200" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="t4" value="&lt;b&gt;路径优化&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=25;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+        <mxCell id="t4" value="路径优化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=25;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
           <mxGeometry x="1235" y="635" width="200" height="42" as="geometry" />
         </mxCell>
         <mxCell id="bt12" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#000000;" parent="1" edge="1">
