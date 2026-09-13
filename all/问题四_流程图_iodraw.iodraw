@@ -115,10 +115,10 @@
         <mxCell id="c4_3" value="&lt;b&gt;平均定位清除时间&lt;br&gt;412.56 s ～ 715.33 s&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1250" y="310" width="225" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="c4_4" value="&lt;b&gt;检验全局搜索完备性&lt;br&gt;以及定位与清除安全性&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="c4_4" value="&lt;b&gt;检验全局搜索完备性&lt;br&gt;以及定位与清除安全性&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1250" y="408" width="225" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="c4_5" value="核对时间账本一致性&lt;br&gt;验证模型稳定可靠" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="c4_5" value="核对时间一致性&lt;br&gt;验证模型稳定可靠" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1250" y="510" width="225" height="68" as="geometry" />
         </mxCell>
         <mxCell id="e41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" parent="1" source="c4_1" target="c4_2" edge="1">
