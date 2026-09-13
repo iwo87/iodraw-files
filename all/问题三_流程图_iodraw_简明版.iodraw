@@ -8,7 +8,7 @@
           <mxGeometry x="60" y="70" width="330" height="550" as="geometry" />
         </mxCell>
         <mxCell id="g2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#222222;strokeWidth=2;dashed=1;dashPattern=8 6;arcSize=9;" parent="1" vertex="1">
-          <mxGeometry x="430" y="70" width="330" height="550" as="geometry" />
+          <mxGeometry x="428" y="60" width="330" height="550" as="geometry" />
         </mxCell>
         <mxCell id="g3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#222222;strokeWidth=2;dashed=1;dashPattern=8 6;arcSize=9;" parent="1" vertex="1">
           <mxGeometry x="800" y="70" width="330" height="550" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="78" y="88" width="294" height="312" as="geometry" />
         </mxCell>
         <mxCell id="panel2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#D3D3D3;strokeWidth=1;arcSize=18;" parent="1" vertex="1">
-          <mxGeometry x="448" y="88" width="294" height="350" as="geometry" />
+          <mxGeometry x="448" y="88" width="294" height="302" as="geometry" />
         </mxCell>
         <mxCell id="a1" value="设计扫描点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=none;fontSize=19;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="110" y="112" width="230" height="58" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="480" y="300" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b4" value="满足条件后确定待清除目标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#D0D0D0;arcSize=18;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="480" y="430" width="230" height="62" as="geometry" />
+          <mxGeometry x="480" y="419" width="230" height="62" as="geometry" />
         </mxCell>
         <mxCell id="b5" value="若距离很近，直接定位清除" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="480" y="540" width="230" height="62" as="geometry" />
