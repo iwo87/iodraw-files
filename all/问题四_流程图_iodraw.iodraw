@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="q4-flow" name="问题四流程图">
-    <mxGraphModel dx="1221" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="980" math="1" shadow="0">
+    <mxGraphModel dx="1744" dy="1024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="980" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,7 +89,7 @@
           <mxGeometry x="870" y="310" width="225" height="64" as="geometry" />
         </mxCell>
         <mxCell id="c3_4" value="&lt;b&gt;满足局部探测条件时&lt;br&gt;至多三次补测获取新的有效示向&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="870" y="404" width="230" height="74" as="geometry" />
+          <mxGeometry x="867.5" y="406" width="230" height="74" as="geometry" />
         </mxCell>
         <mxCell id="c3_5" value="&lt;b&gt;结合空间分区恢复策略&lt;br&gt;实现提前收尾与安全终止&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="870" y="508" width="225" height="74" as="geometry" />
@@ -162,9 +162,6 @@
             <mxPoint x="1080" y="675" as="sourcePoint" />
             <mxPoint x="1210" y="675" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="cap" value="图  问题四混合干扰源搜索、定位与清除问题求解思路图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=24;fontFamily=SimSun;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="735" width="760" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
