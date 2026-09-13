@@ -28,7 +28,7 @@
         <mxCell id="a2" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;顺序扫描检测&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="110" y="205" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a3" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;各频道扫描结果&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="a3" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;各频道扫描结果&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="110" y="300" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a4" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;判断是否完成初步搜索&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
@@ -91,10 +91,10 @@
         <mxCell id="ec3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" parent="1" source="c3" target="c4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d1" value="&lt;b&gt;生成剩余任务访问顺序&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=none;fontSize=19;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="d1" value="&lt;b&gt;生成剩余任务访问顺序&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=none;fontSize=19;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1220" y="112" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d2" value="&lt;b&gt;安排定位与清除的先后次序&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="d2" value="&lt;b&gt;安排定位与清除的先后次序&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1220" y="215" width="230" height="72" as="geometry" />
         </mxCell>
         <mxCell id="d3" value="&lt;b&gt;优化行进路线，减少折返&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
