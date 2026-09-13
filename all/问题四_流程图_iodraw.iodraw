@@ -17,7 +17,7 @@
           <mxGeometry x="1195" y="78" width="335" height="566" as="geometry" />
         </mxCell>
         <mxCell id="panel1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDEDED;strokeColor=#D0D0D0;strokeWidth=1;arcSize=18;" parent="1" vertex="1">
-          <mxGeometry x="60" y="91" width="301" height="332" as="geometry" />
+          <mxGeometry x="72" y="94" width="301" height="332" as="geometry" />
         </mxCell>
         <mxCell id="panel2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDEDED;strokeColor=#D0D0D0;strokeWidth=1;arcSize=18;" parent="1" vertex="1">
           <mxGeometry x="452" y="94" width="301" height="394" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="110" y="118" width="225" height="56" as="geometry" />
         </mxCell>
         <mxCell id="c1_2" value="&lt;b&gt;1.距离覆盖不保证发现目标&lt;br&gt;2.单次 no_signal 无法缩小定位区域&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="92.5" y="202" width="260" height="92" as="geometry" />
+          <mxGeometry x="92.5" y="202" width="277.5" height="92" as="geometry" />
         </mxCell>
         <mxCell id="c1_3" value="构造 25 点扫描骨架&lt;br&gt;中心点 + 内环12点 + 外环12点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="110" y="326" width="225" height="74" as="geometry" />
