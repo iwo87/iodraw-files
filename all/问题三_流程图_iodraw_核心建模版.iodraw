@@ -157,7 +157,7 @@
             <mxPoint x="1220" y="656" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cap" value="图  问题三多干扰源搜索—定位—清除问题求解思路图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=24;fontFamily=SimSun;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="cap" value="" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=24;fontFamily=SimSun;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="710" width="700" height="45" as="geometry" />
         </mxCell>
       </root>
