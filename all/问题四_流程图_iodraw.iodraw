@@ -37,7 +37,7 @@
         <mxCell id="c1_2" value="&lt;b&gt;1.距离覆盖不保证发现目标&lt;br&gt;2.单次 no_signal 无法缩小定位区域&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="83.75" y="202" width="277.5" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="c1_3" value="&lt;b&gt;构造 25 点扫描骨架&lt;br&gt;中心点 + 内环12点 + 外环12点&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="c1_3" value="&lt;b&gt;构造 25 点扫描骨架&lt;br&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;中心点 + 内环12点 + 外环12点&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE4D6;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="110" y="326" width="225" height="74" as="geometry" />
         </mxCell>
         <mxCell id="c1_4" value="形成 36 个完整三角单元&lt;br&gt;实现距离--方向联合完备搜索" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
