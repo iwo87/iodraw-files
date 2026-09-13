@@ -53,10 +53,10 @@
           <mxGeometry x="480" y="300" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b4" value="满足条件后确定待清除目标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#D0D0D0;arcSize=18;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="480" y="395" width="230" height="62" as="geometry" />
+          <mxGeometry x="480" y="430" width="230" height="62" as="geometry" />
         </mxCell>
         <mxCell id="b5" value="若距离很近，直接定位清除" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="480" y="505" width="230" height="62" as="geometry" />
+          <mxGeometry x="480" y="540" width="230" height="62" as="geometry" />
         </mxCell>
         <mxCell id="eb1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#000000;" parent="1" source="b1" target="b2" edge="1">
           <mxGeometry relative="1" as="geometry" />
