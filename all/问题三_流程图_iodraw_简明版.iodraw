@@ -100,8 +100,8 @@
         <mxCell id="d3" value="&lt;b&gt;优化行进路线，减少折返&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1220" y="330" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d4" value="动态更新当前最优任务&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1205" y="455" width="230" height="72" as="geometry" />
+        <mxCell id="d4" value="动态更新当前最优任务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E2F3;strokeColor=none;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="1220" y="435" width="230" height="72" as="geometry" />
         </mxCell>
         <mxCell id="d5" value="&lt;b&gt;完成全部清除，输出结果&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0D9;strokeColor=none;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1220" y="540" width="230" height="60" as="geometry" />
